@@ -1,5 +1,6 @@
 import unittest
 import os
+from dotenv import load_dotenv
 
 from scrapper import Session, Course, CourseUnit
 
@@ -7,6 +8,7 @@ from scrapper import Session, Course, CourseUnit
 class TestCourse(unittest.TestCase):
 
     def setUp(self):
+        load_dotenv()
         self.session = Session(os.environ.get('SCRAPPER_USER'), os.environ.get('SCRAPPER_PASSWORD'))
 
     def test_fetch_name(self):

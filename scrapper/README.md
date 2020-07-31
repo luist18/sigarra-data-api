@@ -24,12 +24,12 @@ The following classes store the data scrapped as well as useful information.
 - [ ] **Average grade** - the average grade of the course unit;
 - [ ] **Average rate** - the average pass rate of the course unit;
 - [ ] **Difficulty** - 0.0 to 5.0 rating based on the average grade and the average rate of the course unit;
-- [ ] **Grades** - array of grades given in the course unit;
-- [ ] **Years** - information about a panoply of data from 2010 to the current year.
+- [X] **Grades** - array of grades given in the course unit;
+- [X] **Years** - information about a panoply of data from 2010 to the current year.
 
 ### Course Unit Year
 
-- [ ] **Year** - the year of the data;
-- [ ] **Pass rate** - the pass rate of the course unit;
-- [ ] **Average grade** - the average grade of the course unit;
-- [ ] **Grades** - array of the grades given in the course unit.
+- [X] **Year** - the year of the data;
+- [X] **Pass rate** - the pass rate of the course unit;
+- [X] **Average grade** - the average grade of the course unit;
+- [X] **Grades** - array of the grades given in the course unit.
