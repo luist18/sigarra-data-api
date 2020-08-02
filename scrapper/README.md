@@ -33,3 +33,7 @@ The following classes store the data scrapped as well as useful information.
 - [X] **Pass rate** - the pass rate of the course unit;
 - [X] **Average grade** - the average grade of the course unit;
 - [X] **Grades** - array of the grades given in the course unit.
+
+## Todo
+
+- [ ] Fetch optative subjects.

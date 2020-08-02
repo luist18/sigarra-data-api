@@ -85,3 +85,15 @@ class CourseUnitYear:
         pass_rate_weighted = self.pass_rate / 100.0 * 0.40
 
         self.difficulty = (average_weighted + pass_rate_weighted) * 5
+
+    def json_object(self):
+        object = {
+            'year': self.year,
+            'average_grade': self.average_grade,
+            'pass_rate': self.pass_rate,
+            'difficulty': self.difficulty,
+            'grade_count': self.grade_count,
+            'grades': self.grades
+        }
+
+        return object

@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import json
 
 from . import CourseUnit
 from . import utils as _utils
@@ -33,51 +34,17 @@ class Course:
         self.name = name
 
     def fetch_course_units(self):
-        # In the course study plan the tables with the course units are the 3, 4, 7, 8, 11, 12, 15, 16, 19, 20
-        # 3, 4 - 1st year
-        # 7, 8 - 2nd year
-        # 11, 12 - 3rd year
-        # 15, 16 - 4th year
-        # 19, 20 - 5th year
         self.course_units = []
 
-        tables = self.soup.find_all('table')
+        course_units_raw = _utils.get_course_units(self.soup)
 
-        course_unit_tables = []
+        for year in course_units_raw:
+            for semester in course_units_raw[year]:
+                for course_unit_raw in course_units_raw[year][semester]:
+                    c_unit = CourseUnit(self.session, course_unit_raw['id'], course_unit_raw['name'], year, semester, course_unit_raw['code'],
+                                        course_unit_raw['acronym'], course_unit_raw['credits'])
 
-        course_unit_tables.extend(tables[3:5])
-        course_unit_tables.extend(tables[7:9])
-        course_unit_tables.extend(tables[11:13])
-        course_unit_tables.extend(tables[15:17])
-        course_unit_tables.extend(tables[19:21])
-
-        for i in range(0, len(course_unit_tables)):
-            year = (int)(i / 2 + 1)
-            semester = (int)(i % 2 + 1)
-
-            table = course_unit_tables[i]
-
-            course_units = table.find_all('td', {'class', 't'})
-
-            for course_unit in course_units:
-                a = course_unit.find('a')
-
-                if a is None:
-                    continue
-
-                href = a.get('href')
-
-                if href is None:
-                    continue
-                elif 'ucurr_geral' not in href:
-                    continue
-
-                id = href.split('=')[1]
-                name = a.text
-
-                c_unit = CourseUnit(self.session, id, name, year, semester)
-
-                self.course_units.append(c_unit)
+                    self.course_units.append(c_unit)
 
     def calculate_difficulty(self):
         count = 0
@@ -90,4 +57,28 @@ class Course:
             count += 1
             sum += course_unit.difficulty
 
+        if count == 0:
+            self.difficulty = None
+            return
+
         self.difficulty = sum / count
+
+    def json_object(self):
+        course_units_object = []
+
+        for course_unit in self.course_units:
+            course_units_object.append(course_unit.json_object())
+
+        object = {
+            'name': self.name,
+            'id': self.curricular_plan_id,
+            'difficulty': self.difficulty,
+            'course_units': course_units_object
+        }
+
+        return object
+
+    def to_json(self, filename):
+        with open(filename, 'w', encoding='utf-8') as outfile:
+            json.dump(self.json_object(), outfile,
+                      indent=4, ensure_ascii=False)

@@ -8,12 +8,17 @@ __all__ = ['CourseUnit']
 
 class CourseUnit:
 
-    def __init__(self, session, id, name, year, semester):
+    def __init__(self, session, id, name, year, semester, code, acronym, credits):
         self.session = session
         self.id = id
         self.name = name
         self.year = year
         self.semester = semester
+        self.code = code
+        self.acronym = acronym
+        self.credits = credits
+
+        print('Getting data for', self.name)
 
         self.fetch_years(2010, 2019)
         self.calculate_grades()
@@ -76,6 +81,10 @@ class CourseUnit:
             sum += rate
             count += 1
 
+        if count == 0:
+            self.average_pass_rate = None
+            return
+
         self.average_pass_rate = sum / count
 
     def calculate_difficulty(self):
@@ -87,3 +96,28 @@ class CourseUnit:
         pass_rate_weighted = self.average_pass_rate / 100.0 * 0.40
 
         self.difficulty = (average_weighted + pass_rate_weighted) * 5
+
+    def json_object(self):
+        years_object = {}
+
+        for year_item in self.years.items():
+            year = year_item[0]
+            years_object[year] = year_item[1].json_object()
+
+        object = {
+            'id': self.id,
+            'name': self.name,
+            'year': self.year,
+            'semester': self.semester,
+            'code': self.code,
+            'acronym': self.acronym,
+            'credits': self.credits,
+            'average_grade': self.average_grade,
+            'average_pass_rate': self.average_pass_rate,
+            'difficulty': self.difficulty,
+            'grade_count': self.grade_count,
+            'grades': self.grades,
+            'years': years_object
+        }
+
+        return object

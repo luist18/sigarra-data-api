@@ -12,11 +12,12 @@ class TestCourse(unittest.TestCase):
         self.session = Session(os.environ.get(
             'SCRAPPER_USER'), os.environ.get('SCRAPPER_PASSWORD'))
 
-    def test_fetch_name(self):
-        course = Course(self.session, 2496)
+    def test_informatica(self):
+        course = Course(self.session, 2708)
 
-        self.assertEqual(
-            course.name, 'Mestrado Integrado em Engenharia Informática e Computação')
+        course.to_json('mieq.json')
+
+        self.assertEqual(1, 1)
 
 
 if __name__ == '__main__':
