@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import math
 
 from . import utils as _utils
 
@@ -26,6 +27,7 @@ class CourseUnitYear:
 
         self.fetch_pass_rate()
         self.fetch_grades()
+        self.calculate_difficulty()
 
     def fetch_pass_rate(self):
         # The data table is the fourth on the page
@@ -37,7 +39,7 @@ class CourseUnitYear:
 
             self.pass_rate = (float)(rate)
         except:
-            print('Could not fetch the pass rate for ', self.id, self.year)
+            self.pass_rate = None
 
     def fetch_grades(self):
         # The grades are the first table with the class dados
@@ -52,7 +54,7 @@ class CourseUnitYear:
                 result = row.find('td', {'class': 'k t'}).text
                 count = (int)(row.find('td', {'class': 'n'}).text)
 
-                if 'Reprovado' or 'Sem frequência' in result:
+                if 'Reprovado' in result or 'Sem frequência' in result:
                     continue
 
                 grade = (int)(_utils.NUMBERS_PT[result])
@@ -62,7 +64,7 @@ class CourseUnitYear:
 
             self.calculate_average_grade()
         except:
-            print('Could not fetch the grades for ', self.id, self.year)
+            self.grades = None
 
     def calculate_average_grade(self):
         average = 0.0
@@ -73,3 +75,13 @@ class CourseUnitYear:
             average += prob * key
 
         self.average_grade = average
+
+    def calculate_difficulty(self):
+        if self.average_grade is None or self.pass_rate is None:
+            self.difficulty = None
+            return
+
+        average_weighted = self.average_grade / 20.0 * 0.60
+        pass_rate_weighted = self.pass_rate / 100.0 * 0.40
+
+        self.difficulty = (average_weighted + pass_rate_weighted) * 5

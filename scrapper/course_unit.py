@@ -17,14 +17,13 @@ class CourseUnit:
 
         self.fetch_years(2010, 2019)
         self.calculate_grades()
-        self.calculate_rate()
-        # self.calculate_difficulty()
+        self.calculate_average_rate()
+        self.calculate_difficulty()
 
     def fetch_years(self, starting_year, finishing_year):
         self.years = {}
 
         for year in range(2010, 2019):
-            print('Fetching', year, 'data for', self.name)
 
             course_unit_year = CourseUnitYear(self.session, self.id, year)
 
@@ -32,6 +31,7 @@ class CourseUnit:
 
     def calculate_grades(self):
         self.grades = {}
+        self.grade_count = 0
 
         for year_item in self.years.items():
             year = year_item[0]
@@ -44,13 +44,28 @@ class CourseUnit:
                 grade = grade_item[0]
                 count = grade_item[1]
 
+                self.grade_count += count
+
                 if grade in self.grades:
                     self.grades[grade] += count
                 else:
                     self.grades[grade] = count
 
-    def calculate_rate(self):
+        self.calculate_average_grade()
+
+    def calculate_average_grade(self):
+        average = 0.0
+
+        for key in self.grades:
+            prob = self.grades[key] / self.grade_count
+
+            average += prob * key
+
+        self.average_grade = average
+
+    def calculate_average_rate(self):
         sum = 0
+        count = 0
 
         for year_item in self.years.items():
             rate = year_item[1].pass_rate
@@ -59,5 +74,16 @@ class CourseUnit:
                 continue
 
             sum += rate
+            count += 1
 
-        return sum / len(self.years)
+        self.average_pass_rate = sum / count
+
+    def calculate_difficulty(self):
+        if self.average_grade is None or self.average_pass_rate is None:
+            self.difficulty = None
+            return
+
+        average_weighted = self.average_grade / 20.0 * 0.60
+        pass_rate_weighted = self.average_pass_rate / 100.0 * 0.40
+
+        self.difficulty = (average_weighted + pass_rate_weighted) * 5

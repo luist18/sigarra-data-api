@@ -13,7 +13,7 @@ The following classes store the data scrapped as well as useful information.
 - [X] **Name** - name of the course;
 - [X] **Identifier** - course identifier, mainly used in *URLs* and parameters;
 - [X] **Course units** - the course units of the course, the name and the identifier;
-- [ ] **Difficulty** - 0.0 to 5.0 rating based on the average grade of each course unit.
+- [X] **Difficulty** - 0.0 to 5.0 rating based on the average grade of each course unit.
 
 ### Course Unit
 
@@ -21,9 +21,9 @@ The following classes store the data scrapped as well as useful information.
 - [X] **Identifier** - course unit identifier, mainly used in *URLs* and parameters;
 - [X] **Year** - year of the course in which the course unit is taught;
 - [X] **Semester** - semester of the course in which the course unit is taught;
-- [ ] **Average grade** - the average grade of the course unit;
-- [ ] **Average rate** - the average pass rate of the course unit;
-- [ ] **Difficulty** - 0.0 to 5.0 rating based on the average grade and the average rate of the course unit;
+- [X] **Average grade** - the average grade of the course unit;
+- [X] **Average rate** - the average pass rate of the course unit;
+- [X] **Difficulty** - 0.0 to 5.0 rating based on the average grade and the average rate of the course unit;
 - [X] **Grades** - array of grades given in the course unit;
 - [X] **Years** - information about a panoply of data from 2010 to the current year.
 

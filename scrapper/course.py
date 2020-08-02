@@ -19,6 +19,7 @@ class Course:
 
         self.fetch_name()
         self.fetch_course_units()
+        self.calculate_difficulty()
 
     def fetch_name(self):
         # The name is the second h1 in the div with the conteudoinner id
@@ -77,3 +78,16 @@ class Course:
                 c_unit = CourseUnit(self.session, id, name, year, semester)
 
                 self.course_units.append(c_unit)
+
+    def calculate_difficulty(self):
+        count = 0
+        sum = 0
+
+        for course_unit in self.course_units:
+            if course_unit.difficulty is None:
+                continue
+
+            count += 1
+            sum += course_unit.difficulty
+
+        self.difficulty = sum / count
