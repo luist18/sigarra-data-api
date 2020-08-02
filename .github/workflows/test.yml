@@ -20,16 +20,16 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Install package
-        run: /
-          pip setup.py install
+        run: |
+          python setup.py install
       - name: Test with unittest
         env:
           SCRAPPER_USER: ${{ secrets.SCRAPPER_USER }}
           SCRAPPER_PASSWORD: ${{ secrets.SCRAPPER_PASSWORD }}
         run: |
-          python -m unittest discover test
+          python -m unittest discover -s test -p '*_test.py'
       - name: ZIP
-        run: /
+        run: |
           sudo apt install zip
           zip -r data.zip data
       - uses: actions/upload-artifact@v2
