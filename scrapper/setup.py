@@ -7,7 +7,7 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setup(
-    name="sigarra-stats-scrapper",
+    name="sigarra-data-scrapper",
     version="0.1.1",
     author="Luis Tavares",
     python_requires='>=3.6',

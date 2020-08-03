@@ -4,7 +4,7 @@ import unittest
 import os
 from dotenv import load_dotenv
 
-from scrapper import Faculty
+from sigarra_data_scrapper import Faculty
 
 
 class TestCourse(unittest.TestCase):

@@ -9,6 +9,26 @@ __all__ = ['CourseUnitYear']
 
 
 class CourseUnitYear:
+    """
+    A class used to represent a course unit instance taught at of any course from any faculty of the University of Porto.
+
+    Args:
+        faculty             (:obj:`Faculty`): The faculty object associated to this course unit instance
+        id                  (int): The id of the course unit
+        year                (int): The year of the instance
+
+    Attributes:
+        faculty             (:obj:`Faculty`): The faculty object associated to this course unit instance
+        id                  (int): The id of the course unit
+        year                (int): The year of the instance
+        grade_count:        (int): The grade count of this course unit instance
+        pass_rate:          (float): The pass rate of this course unit instance
+        grades:             (dict): The dictionary of grades of this course unit instance
+        average_grade:      (float): The average grade of this course unit instance
+        difficulty:         (float): The difficulty of the course unit instance based in the data fetched. The difficulty is a float
+                            value between 0.0 and 5.0. Lower the value lower the difficulty
+
+    """
 
     def __init__(self, faculty, id, year):
         self.faculty = faculty
@@ -32,6 +52,12 @@ class CourseUnitYear:
         self.calculate_difficulty()
 
     def fetch_pass_rate(self):
+        """
+        Fetches the pass rate for this course unit instance.
+
+        The pass rate is the fifth `td` in the fourth `table` of the html page.
+        """
+
         # The data table is the fourth on the page
         try:
             table = self.rate_soup.find_all('table')[3]
@@ -44,6 +70,10 @@ class CourseUnitYear:
             self.pass_rate = None
 
     def fetch_grades(self):
+        """
+        Fetches the grades for this course unit instance.
+        """
+
         # The grades are the first table with the class dados
         try:
             table = self.grades_soup.find('table', {'class': 'dados'})
@@ -69,6 +99,9 @@ class CourseUnitYear:
             self.grades = None
 
     def calculate_average_grade(self):
+        """
+        Calculates the average grade.
+        """
         average = 0.0
 
         for key in self.grades:
@@ -79,6 +112,13 @@ class CourseUnitYear:
         self.average_grade = average
 
     def calculate_difficulty(self):
+        """
+        Calculates the difficulty rating of the course unit.
+
+        Based on the average approve rate and grades from 2010 to 2018 the method computes a rating from 0.0 to 5.0 that
+        represents the difficulty of each course unit. The lower the value lower the difficulty. The difficulty of the course unit
+        is the weighted sum of 60% of the normalized average grade and 40% of the normalized pass rate.
+        """
         if self.average_grade is None or self.pass_rate is None:
             self.difficulty = None
             return
@@ -89,6 +129,11 @@ class CourseUnitYear:
         self.difficulty = (average_weighted + pass_rate_weighted) * 5
 
     def json_object(self):
+        """
+        Creates a JSON object with the object data.
+
+        This method transforms the object into a JSON object with every data stored in the class.
+        """
         object = {
             'year': self.year,
             'average_grade': self.average_grade,
