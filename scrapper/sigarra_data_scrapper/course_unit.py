@@ -49,8 +49,6 @@ class CourseUnit:
         self.acronym = acronym
         self.credits = credits
 
-        print('Getting data for', self.name)
-
         self.fetch_years(2010, 2019)
         self.calculate_grades()
         self.calculate_average_rate()
@@ -66,7 +64,6 @@ class CourseUnit:
         self.years = {}
 
         for year in range(2010, 2019):
-
             course_unit_year = CourseUnitYear(self.faculty, self.id, year)
 
             self.years[year] = course_unit_year

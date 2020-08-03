@@ -17,8 +17,7 @@ class TestCourse(unittest.TestCase):
             'password': os.environ.get('SCRAPPER_PASSWORD')
         }
 
-        self.faculty = Faculty(
-            auth, 'Faculdade de Engenharia da Universidade do Porto', 'FEUP')
+        self.faculty = Faculty(auth, 'FEUP')
 
     def test_quimica(self):
         self.faculty.course_ids.append(2708)
@@ -26,6 +25,8 @@ class TestCourse(unittest.TestCase):
         self.faculty.fetch_courses()
 
         course = self.faculty.courses[0]
+
+        course.to_json('mieq.json')
 
         self.assertEqual(
             course.name, 'Mestrado Integrado em Engenharia Química')

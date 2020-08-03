@@ -36,6 +36,23 @@ NUMBERS_PT = {
     'Vinte': 20
 }
 
+FACULTIES = {
+    'faup': 'Faculdade de Arquitetura',
+    'fbaup': 'Faculdade de Belas Artes',
+    'fcup': 'Faculdade de Ciências',
+    'fcnaup': 'Faculdade de Ciências da Nutrição e Alimentação',
+    'fadeup': 'Faculdade de Desporto',
+    'fdup': 'Faculdade de Direito',
+    'fep': 'Faculdade de Economia',
+    'feup': 'Faculdade de Engenharia',
+    'ffup': 'Faculdade de Farmácia',
+    'flup': 'Faculdade de Letras',
+    'fmup': 'Faculdade de Medicina',
+    'fmdup': 'Faculdade de Medicina Dentária',
+    'fpceup': 'Faculdade de Psicologia e de Ciências da Educação',
+    'icbas': 'Instituto de Ciências Biomédicas Abel Salazar'
+}
+
 
 def get_course_units(soup):
     a_list = soup.find_all('a')

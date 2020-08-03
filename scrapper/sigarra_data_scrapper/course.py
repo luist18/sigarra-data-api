@@ -56,6 +56,9 @@ class Course:
 
         self.name = name
 
+        if self.faculty.verbosity is True:
+            self.faculty.logger.info('Found name: {{ \'name\': {} }}'.format(name))
+
     def fetch_course_units(self):
         """
         Fetches the course units of the course.
@@ -67,9 +70,15 @@ class Course:
 
         course_units_raw = _utils.get_course_units(self.soup)
 
+        if self.faculty.verbosity is True:
+            self.faculty.logger.info('Found {} years'.format(len(course_units_raw)))
+
         for year in course_units_raw:
             for semester in course_units_raw[year]:
                 for course_unit_raw in course_units_raw[year][semester]:
+                    if self.faculty.verbosity is True:
+                        self.faculty.logger.info('Getting data for course unit with params: {}'.format(course_unit_raw))
+
                     c_unit = CourseUnit(self.faculty, course_unit_raw['id'], course_unit_raw['name'], year, semester, course_unit_raw['code'],
                                         course_unit_raw['acronym'], course_unit_raw['credits'])
 
@@ -95,6 +104,10 @@ class Course:
 
         if count == 0:
             self.difficulty = None
+
+            if self.faculty.verbosity is True:
+                self.faculty.warning.info('Error while finding difficulty')
+
             return
 
         self.difficulty = sum / count
