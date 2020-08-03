@@ -64,6 +64,11 @@ class CourseUnit:
         self.years = {}
 
         for year in range(2010, 2019):
+            if self.faculty.verbosity is True:
+                self.faculty.logger.info('Getting data for course unit instance with params: {}'.format(
+                    {'name': self.name, 'year': year}
+                ))
+
             course_unit_year = CourseUnitYear(self.faculty, self.id, year)
 
             self.years[year] = course_unit_year
@@ -132,6 +137,11 @@ class CourseUnit:
 
         if count == 0:
             self.average_pass_rate = None
+
+            if self.faculty.verbosity is True:
+                self.faculty.logger.warning(
+                    'Error while finding average pass rate')
+
             return
 
         self.average_pass_rate = sum / count
@@ -146,6 +156,10 @@ class CourseUnit:
         """
         if self.average_grade is None or self.average_pass_rate is None:
             self.difficulty = None
+
+            if self.faculty.verbosity is True:
+                self.faculty.logger.warning('Error while finding difficulty')
+
             return
 
         average_weighted = self.average_grade / 20.0 * 0.60

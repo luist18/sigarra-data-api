@@ -34,15 +34,18 @@ pip install sigarra-data-scrapper
 ### Installation from the GitHub repository
 
 1. Clone the GitHub repository
+
     ```bash
     git clone https://github.com/luist18/sigarra-course-stats-api.git
     ```
+
 2. Change the working directory to the scrapper directory (*i.e.,* ```scrapper/```)
 3. Install the scrapper package
+
     ```bash
     python setup.py sdist bdist_wheel
     ```
-    
+
     or
 
     ```bash
@@ -54,11 +57,13 @@ pip install sigarra-data-scrapper
 ### Testing
 
 The tests are run after each commit by the `test.yml` GitHub workflow, but you can also run them locally with:
+
 ```bash
 python -m unittest discover -s test -p '*_test.py'
 ```
 
 ### Coverage
+
 ```bash
 coverage run --include="sigarra_data_scrapper/*" -m unittest
 coverage report
@@ -67,11 +72,14 @@ coverage report
 ## Examples
 
 1. Import necessary classes
+
     ```python
     import json
     from sigarra_data_scrapper import Faculty
     ```
+
 2. Authenticate to a faculty
+
     ```python
     auth = {
         'user': 'up201809679',
@@ -80,7 +88,9 @@ coverage report
 
     feup = Faculty(auth, 'feup')
     ```
+
 3. Fetch one or more courses
+
     ```python
     feup.courses.extend([2496, 2708]) # 2496 is the curricular plan id of MIEIC and 2708 is the curricular plan id of MIEQ
     ```
@@ -89,14 +99,16 @@ coverage report
 
     ```python
     feup = Faculty(auth, 'feup', course_ids=[2496, 2708])
-    ``` 
+    ```
 
     then, fetch the data
 
     ```python
     feup.fetch_courses()
     ```
+
 4. Show the data
+
     ```python
     for course in feup.courses:
         course_json = course.json_object()
@@ -160,9 +172,9 @@ For demonstration purposes the data shown is shortened from the original data.
                     "grade_count": 0,
                     "grades": null
                 },
-                ...
-                ...
-                ...
+                "The rest of the data goes here": "Not shown for demonstration purposes",
+                "The rest of the data goes here": "Not shown for demonstration purposes",
+                "The rest of the data goes here": "Not shown for demonstration purposes",
                 "2018": {
                     "year": 2018,
                     "average_grade": 14.97142857142857,
@@ -186,10 +198,16 @@ For demonstration purposes the data shown is shortened from the original data.
                 }
             }
         },
-        ...
-        ...
-        ...
-    }
+        {
+            "The rest of the data goes here": "Not shown for demonstration purposes"
+        },
+        {
+            "The rest of the data goes here": "Not shown for demonstration purposes"
+        },
+        {
+            "The rest of the data goes here": "Not shown for demonstration purposes"
+        }
+    ]
 }
 ```
 
@@ -212,7 +230,3 @@ feup.set_verbosity(True)
 feup.fetch_courses()
 
 ```
-
-### TODO
-
-- [ ] Add verbosity to course_unit.py and course_unit_year.py

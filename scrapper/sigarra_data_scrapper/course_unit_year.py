@@ -67,6 +67,9 @@ class CourseUnitYear:
 
             self.pass_rate = (float)(rate)
         except:
+            if self.faculty.verbosity is True:
+                self.faculty.logger.warning('Could not fetch pass rate')
+
             self.pass_rate = None
 
     def fetch_grades(self):
@@ -96,6 +99,9 @@ class CourseUnitYear:
 
             self.calculate_average_grade()
         except:
+            if self.faculty.verbosity is True:
+                self.faculty.logger.warning('Could not fetch grades')
+
             self.grades = None
 
     def calculate_average_grade(self):
@@ -121,6 +127,10 @@ class CourseUnitYear:
         """
         if self.average_grade is None or self.pass_rate is None:
             self.difficulty = None
+
+            if self.faculty.verbosity is True:
+                self.faculty.logger.warning('Could not get difficulty')
+
             return
 
         average_weighted = self.average_grade / 20.0 * 0.60

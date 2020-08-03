@@ -106,7 +106,7 @@ class Course:
             self.difficulty = None
 
             if self.faculty.verbosity is True:
-                self.faculty.warning.info('Error while finding difficulty')
+                self.faculty.logger.warning('Error while finding difficulty')
 
             return
 

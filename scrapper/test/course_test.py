@@ -17,7 +17,7 @@ class TestCourse(unittest.TestCase):
             'password': os.environ.get('SCRAPPER_PASSWORD')
         }
 
-        self.faculty = Faculty(auth, 'FEUP')
+        self.faculty = Faculty(auth, 'FEUP', verbosity=True)
 
     def test_quimica(self):
         self.faculty.course_ids.append(2708)
