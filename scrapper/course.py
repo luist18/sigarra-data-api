@@ -9,12 +9,12 @@ __all__ = ['Course']
 
 class Course:
 
-    def __init__(self, session, curricular_plan_id):
-        self.session = session
+    def __init__(self, faculty, curricular_plan_id):
+        self.faculty = faculty
         self.curricular_plan_id = curricular_plan_id
 
-        self.html = self.session.get_html(
-            _utils.SIGARRA_URLS['course_plan'].format(self.curricular_plan_id))
+        self.html = self.faculty.session.get_html(
+            _utils.SIGARRA_URLS['course_plan'].format(self.faculty.acronym, self.curricular_plan_id))
 
         self.soup = BeautifulSoup(self.html, 'html.parser')
 
@@ -41,7 +41,7 @@ class Course:
         for year in course_units_raw:
             for semester in course_units_raw[year]:
                 for course_unit_raw in course_units_raw[year][semester]:
-                    c_unit = CourseUnit(self.session, course_unit_raw['id'], course_unit_raw['name'], year, semester, course_unit_raw['code'],
+                    c_unit = CourseUnit(self.faculty, course_unit_raw['id'], course_unit_raw['name'], year, semester, course_unit_raw['code'],
                                         course_unit_raw['acronym'], course_unit_raw['credits'])
 
                     self.course_units.append(c_unit)

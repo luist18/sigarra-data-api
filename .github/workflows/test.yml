@@ -28,11 +28,3 @@ jobs:
           SCRAPPER_PASSWORD: ${{ secrets.SCRAPPER_PASSWORD }}
         run: |
           python -m unittest discover -s test -p '*_test.py'
-      - name: ZIP
-        run: |
-          sudo apt install zip
-          zip -r data.zip data
-      - uses: actions/upload-artifact@v2
-        with:
-          name: application-linux
-          path: data.zip

@@ -8,8 +8,8 @@ __all__ = ['CourseUnit']
 
 class CourseUnit:
 
-    def __init__(self, session, id, name, year, semester, code, acronym, credits):
-        self.session = session
+    def __init__(self, faculty, id, name, year, semester, code, acronym, credits):
+        self.faculty = faculty
         self.id = id
         self.name = name
         self.year = year
@@ -30,7 +30,7 @@ class CourseUnit:
 
         for year in range(2010, 2019):
 
-            course_unit_year = CourseUnitYear(self.session, self.id, year)
+            course_unit_year = CourseUnitYear(self.faculty, self.id, year)
 
             self.years[year] = course_unit_year
 

@@ -10,8 +10,8 @@ __all__ = ['CourseUnitYear']
 
 class CourseUnitYear:
 
-    def __init__(self, session, id, year):
-        self.session = session
+    def __init__(self, faculty, id, year):
+        self.faculty = faculty
         self.id = id
         self.year = year
         self.grade_count = 0
@@ -19,10 +19,10 @@ class CourseUnitYear:
         self.grades = None
         self.average_grade = None
 
-        self.html_rate = self.session.get_html(
-            _utils.SIGARRA_URLS['rate_stats'].format(id, year))
-        self.html_grades = self.session.get_html(
-            _utils.SIGARRA_URLS['grade_stats'].format(id, year))
+        self.html_rate = self.faculty.session.get_html(
+            _utils.SIGARRA_URLS['rate_stats'].format(self.faculty.acronym, id, year))
+        self.html_grades = self.faculty.session.get_html(
+            _utils.SIGARRA_URLS['grade_stats'].format(self.faculty.acronym, id, year))
 
         self.rate_soup = BeautifulSoup(self.html_rate, 'html.parser')
         self.grades_soup = BeautifulSoup(self.html_grades, 'html.parser')

@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 SIGARRA_URLS = {
-    'homepage': 'https://sigarra.up.pt/feup/pt/',
-    'course_plan': 'https://sigarra.up.pt/feup/pt/cur_geral.cur_planos_estudos_view?pv_plano_id={}&pv_ano_lectivo=2019&pv_tipo_cur_sigla=MI&pv_origem=CUR',
-    'rate_stats': 'https://sigarra.up.pt/feup/pt/est_geral.dist_result_ocorr?pv_ocorrencia_id={}&PV_ANO_LETIVO={}',
-    'grade_stats': 'https://sigarra.up.pt/feup/pt/est_geral.dist_result_ocorr_detail?pv_ocorrencia_id={}&PV_ANO_LETIVO={}'
+    'homepage': 'https://sigarra.up.pt/{}/pt/',
+    'course_plan': 'https://sigarra.up.pt/{}/pt/cur_geral.cur_planos_estudos_view?pv_plano_id={}&pv_ano_lectivo=2019&pv_tipo_cur_sigla=MI&pv_origem=CUR',
+    'rate_stats': 'https://sigarra.up.pt/{}/pt/est_geral.dist_result_ocorr?pv_ocorrencia_id={}&PV_ANO_LETIVO={}',
+    'grade_stats': 'https://sigarra.up.pt/{}/pt/est_geral.dist_result_ocorr_detail?pv_ocorrencia_id={}&PV_ANO_LETIVO={}'
 }
 
 SIGARRA_URL_HEADERS = {
