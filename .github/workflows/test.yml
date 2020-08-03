@@ -18,13 +18,16 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          cd scrapper
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Install package
         run: |
+          cd scrapper
           python setup.py install
       - name: Test with unittest
         env:
           SCRAPPER_USER: ${{ secrets.SCRAPPER_USER }}
           SCRAPPER_PASSWORD: ${{ secrets.SCRAPPER_PASSWORD }}
         run: |
+          cd scrapper
           python -m unittest discover -s test -p '*_test.py'

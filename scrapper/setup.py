@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setup(
     name="sigarra-stats-scrapper",
-    version="0.1.0",
+    version="0.1.1",
     author="Luis Tavares",
     python_requires='>=3.6',
     install_requires=required,

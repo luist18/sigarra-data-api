@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 import unittest
 import os
 from dotenv import load_dotenv
@@ -15,11 +17,12 @@ class TestCourse(unittest.TestCase):
             'password': os.environ.get('SCRAPPER_PASSWORD')
         }
 
-        self.faculty = Faculty(auth, 'Faculdade de Engenharia da Universidade do Porto', 'FEUP')
+        self.faculty = Faculty(
+            auth, 'Faculdade de Engenharia da Universidade do Porto', 'FEUP')
 
     def test_quimica(self):
         self.faculty.course_ids.append(2708)
-        
+
         self.faculty.fetch_courses()
 
         course = self.faculty.courses[0]
