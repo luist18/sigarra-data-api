@@ -92,7 +92,7 @@ coverage report
 3. Fetch one or more courses
 
     ```python
-    feup.courses.extend([2496, 2708]) # 2496 is the curricular plan id of MIEIC and 2708 is the curricular plan id of MIEQ
+    feup.course_ids.extend([2496, 2708]) # 2496 is the curricular plan id of MIEIC and 2708 is the curricular plan id of MIEQ
     ```
 
     or specify the courses while creating the `Faculty` object,
@@ -223,7 +223,7 @@ fmup.fetch_data()
 feup = Faculty(auth, 'feup', course_ids=[2496])
 feup.fetch_courses()
 
-feup.courses.append(2708)
+feup.course_ids.append(2708)
 # At the middle of a process
 feup.set_verbosity(True)
 

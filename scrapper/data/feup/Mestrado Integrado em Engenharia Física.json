@@ -1,0 +1,3489 @@
+{
+    "name": "Mestrado Integrado em Engenharia Física",
+    "id": 19421,
+    "difficulty": 3.2232707938810408,
+    "course_units": [
+        {
+            "id": "444284",
+            "name": "Análise Real I",
+            "year": 1,
+            "semester": "1",
+            "code": "M1017",
+            "acronym": "M1017",
+            "credits": "9",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442981",
+            "name": "Comunicação em Ciência",
+            "year": 1,
+            "semester": "1",
+            "code": "DPI1002",
+            "acronym": "DPI1002",
+            "credits": "3",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "444283",
+            "name": "Álgebra Linear e Geometria Analítica",
+            "year": 1,
+            "semester": "1",
+            "code": "M1004",
+            "acronym": "M1004",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443021",
+            "name": "Mecânica",
+            "year": 1,
+            "semester": "1",
+            "code": "F1006",
+            "acronym": "F1006",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "445202",
+            "name": "Programação I",
+            "year": 1,
+            "semester": "1",
+            "code": "CC1015",
+            "acronym": "CC1015",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "444285",
+            "name": "Análise II",
+            "year": 1,
+            "semester": "2",
+            "code": "M1015",
+            "acronym": "M1015",
+            "credits": "9",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443022",
+            "name": "Eletromagnetismo I",
+            "year": 1,
+            "semester": "2",
+            "code": "FIS1004",
+            "acronym": "FIS1004",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "447170",
+            "name": "Fundamentos de Química",
+            "year": 1,
+            "semester": "2",
+            "code": "Q1004",
+            "acronym": "Q1004",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443039",
+            "name": "Laboratório de Química Geral",
+            "year": 1,
+            "semester": "2",
+            "code": "Q1005",
+            "acronym": "Q1005",
+            "credits": "3",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443023",
+            "name": "Laboratório de Física I",
+            "year": 1,
+            "semester": "2",
+            "code": "FIS1005",
+            "acronym": "FIS1005",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "444286",
+            "name": "Análise III",
+            "year": 2,
+            "semester": "1",
+            "code": "M2009",
+            "acronym": "M2009",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443026",
+            "name": "Física Térmica",
+            "year": 2,
+            "semester": "1",
+            "code": "FIS2001",
+            "acronym": "FIS2001",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443027",
+            "name": "Ondas e Meios Contínuos",
+            "year": 2,
+            "semester": "1",
+            "code": "FIS2002",
+            "acronym": "FIS2002",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443029",
+            "name": "Eletrónica",
+            "year": 2,
+            "semester": "1",
+            "code": "FIS2008",
+            "acronym": "FIS2008",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443028",
+            "name": "Laboratório de Física II",
+            "year": 2,
+            "semester": "1",
+            "code": "FIS2004",
+            "acronym": "FIS2004",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "445311",
+            "name": "Estatística Aplicada",
+            "year": 2,
+            "semester": "2",
+            "code": "M2026",
+            "acronym": "M2026",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443034",
+            "name": "Eletromagnetismo II",
+            "year": 2,
+            "semester": "2",
+            "code": "FIS2006",
+            "acronym": "FIS2006",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443047",
+            "name": "Sinais e Sistemas",
+            "year": 2,
+            "semester": "2",
+            "code": "FIS2012",
+            "acronym": "FIS2012",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443033",
+            "name": "Física Moderna",
+            "year": 2,
+            "semester": "2",
+            "code": "FIS2003",
+            "acronym": "FIS2003",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443035",
+            "name": "Física Computacional",
+            "year": 2,
+            "semester": "2",
+            "code": "FIS2009",
+            "acronym": "FIS2009",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "436845",
+            "name": "Medição, Sensores e Instrumentação",
+            "year": 3,
+            "semester": "1",
+            "code": "EEC0070",
+            "acronym": "MSIN",
+            "credits": "6",
+            "average_grade": 12.98939179632249,
+            "average_pass_rate": 73.23444444444443,
+            "difficulty": 3.4130976583372616,
+            "grade_count": 1414,
+            "grades": {
+                "4": 4,
+                "6": 3,
+                "10": 72,
+                "11": 174,
+                "12": 277,
+                "13": 294,
+                "14": 243,
+                "15": 154,
+                "16": 87,
+                "17": 45,
+                "2": 1,
+                "3": 4,
+                "5": 3,
+                "7": 4,
+                "8": 5,
+                "9": 23,
+                "18": 19,
+                "19": 2
+            },
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": 12.897435897435898,
+                    "pass_rate": 78.17,
+                    "difficulty": 3.498015384615385,
+                    "grade_count": 156,
+                    "grades": {
+                        "4": 1,
+                        "6": 1,
+                        "10": 7,
+                        "11": 24,
+                        "12": 32,
+                        "13": 36,
+                        "14": 26,
+                        "15": 14,
+                        "16": 13,
+                        "17": 2
+                    }
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": 13.28834355828221,
+                    "pass_rate": 81.09,
+                    "difficulty": 3.6150515337423315,
+                    "grade_count": 163,
+                    "grades": {
+                        "11": 11,
+                        "12": 40,
+                        "13": 52,
+                        "14": 30,
+                        "15": 17,
+                        "16": 7,
+                        "17": 6
+                    }
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": 12.773195876288659,
+                    "pass_rate": 71.43,
+                    "difficulty": 3.3445793814432987,
+                    "grade_count": 194,
+                    "grades": {
+                        "2": 1,
+                        "3": 4,
+                        "4": 3,
+                        "5": 3,
+                        "6": 2,
+                        "7": 3,
+                        "8": 5,
+                        "9": 23,
+                        "11": 6,
+                        "12": 17,
+                        "13": 24,
+                        "14": 31,
+                        "15": 34,
+                        "16": 23,
+                        "17": 8,
+                        "18": 6,
+                        "19": 1
+                    }
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": 12.967532467532466,
+                    "pass_rate": 77.78,
+                    "difficulty": 3.50072987012987,
+                    "grade_count": 154,
+                    "grades": {
+                        "10": 11,
+                        "11": 24,
+                        "12": 32,
+                        "13": 32,
+                        "14": 23,
+                        "15": 20,
+                        "16": 4,
+                        "17": 7,
+                        "18": 1
+                    }
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": 12.376811594202897,
+                    "pass_rate": 63.3,
+                    "difficulty": 3.122521739130435,
+                    "grade_count": 138,
+                    "grades": {
+                        "10": 24,
+                        "11": 23,
+                        "12": 32,
+                        "13": 24,
+                        "14": 17,
+                        "15": 9,
+                        "16": 7,
+                        "17": 2
+                    }
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": 12.856353591160222,
+                    "pass_rate": 78.02,
+                    "difficulty": 3.4888530386740335,
+                    "grade_count": 181,
+                    "grades": {
+                        "10": 12,
+                        "11": 28,
+                        "12": 43,
+                        "13": 38,
+                        "14": 29,
+                        "15": 17,
+                        "16": 11,
+                        "17": 2,
+                        "18": 1
+                    }
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": 12.567567567567567,
+                    "pass_rate": 62.86,
+                    "difficulty": 3.1423351351351347,
+                    "grade_count": 111,
+                    "grades": {
+                        "7": 1,
+                        "10": 3,
+                        "11": 25,
+                        "12": 29,
+                        "13": 23,
+                        "14": 20,
+                        "15": 7,
+                        "16": 1,
+                        "17": 1,
+                        "18": 1
+                    }
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": 13.45,
+                    "pass_rate": 74.77,
+                    "difficulty": 3.5129,
+                    "grade_count": 160,
+                    "grades": {
+                        "10": 11,
+                        "11": 17,
+                        "12": 27,
+                        "13": 31,
+                        "14": 34,
+                        "15": 16,
+                        "16": 7,
+                        "17": 7,
+                        "18": 9,
+                        "19": 1
+                    }
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": 13.579617834394906,
+                    "pass_rate": 71.69,
+                    "difficulty": 3.4707426751592365,
+                    "grade_count": 157,
+                    "grades": {
+                        "10": 4,
+                        "11": 16,
+                        "12": 25,
+                        "13": 34,
+                        "14": 33,
+                        "15": 20,
+                        "16": 14,
+                        "17": 10,
+                        "18": 1
+                    }
+                }
+            }
+        },
+        {
+            "id": "446861",
+            "name": "Laboratório de Física III",
+            "year": 3,
+            "semester": "1",
+            "code": "FIS3011",
+            "acronym": "FIS3011",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443041",
+            "name": "Física Estatística",
+            "year": 3,
+            "semester": "1",
+            "code": "FIS3008",
+            "acronym": "FIS3008",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442982",
+            "name": "Mecânica de Fluidos",
+            "year": 3,
+            "semester": "1",
+            "code": "CEFT3001",
+            "acronym": "CEFT3001",
+            "credits": "6",
+            "average_grade": 8.558139534883722,
+            "average_pass_rate": 40.83,
+            "difficulty": 2.1003209302325585,
+            "grade_count": 43,
+            "grades": {
+                "2": 2,
+                "5": 3,
+                "7": 5,
+                "8": 2,
+                "9": 3,
+                "10": 6,
+                "11": 2,
+                "12": 3,
+                "13": 2,
+                "16": 2,
+                "18": 1,
+                "19": 1,
+                "1": 4,
+                "3": 1,
+                "4": 1,
+                "6": 3,
+                "14": 1,
+                "15": 1
+            },
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": 10.5625,
+                    "pass_rate": 52.63,
+                    "difficulty": 2.6369749999999996,
+                    "grade_count": 16,
+                    "grades": {
+                        "2": 1,
+                        "5": 1,
+                        "7": 2,
+                        "8": 1,
+                        "9": 1,
+                        "10": 3,
+                        "11": 1,
+                        "12": 2,
+                        "13": 1,
+                        "16": 1,
+                        "18": 1,
+                        "19": 1
+                    }
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": 7.37037037037037,
+                    "pass_rate": 29.03,
+                    "difficulty": 1.6861555555555556,
+                    "grade_count": 27,
+                    "grades": {
+                        "1": 4,
+                        "2": 1,
+                        "3": 1,
+                        "4": 1,
+                        "5": 2,
+                        "6": 3,
+                        "7": 3,
+                        "8": 1,
+                        "9": 2,
+                        "10": 3,
+                        "11": 1,
+                        "12": 1,
+                        "13": 1,
+                        "14": 1,
+                        "15": 1,
+                        "16": 1
+                    }
+                }
+            }
+        },
+        {
+            "id": "443040",
+            "name": "Mecânica Quântica I",
+            "year": 3,
+            "semester": "1",
+            "code": "FIS3003",
+            "acronym": "FIS3003",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443045",
+            "name": "Ótica",
+            "year": 3,
+            "semester": "2",
+            "code": "FIS3014",
+            "acronym": "FIS3014",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442984",
+            "name": "Eletrónica Digital e Microprocessadores",
+            "year": 3,
+            "semester": "2",
+            "code": "FIS3004",
+            "acronym": "FIS3004",
+            "credits": "6",
+            "average_grade": 13.054054054054056,
+            "average_pass_rate": 84.85499999999999,
+            "difficulty": 3.6552081081081083,
+            "grade_count": 37,
+            "grades": {
+                "8": 1,
+                "10": 6,
+                "11": 6,
+                "12": 4,
+                "13": 4,
+                "14": 5,
+                "15": 4,
+                "19": 2,
+                "16": 4,
+                "17": 1
+            },
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": 12.428571428571427,
+                    "pass_rate": 81.25,
+                    "difficulty": 3.489285714285714,
+                    "grade_count": 14,
+                    "grades": {
+                        "8": 1,
+                        "10": 4,
+                        "11": 2,
+                        "12": 2,
+                        "13": 1,
+                        "14": 1,
+                        "15": 1,
+                        "19": 2
+                    }
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": 13.434782608695654,
+                    "pass_rate": 88.46,
+                    "difficulty": 3.7844173913043475,
+                    "grade_count": 23,
+                    "grades": {
+                        "10": 2,
+                        "11": 4,
+                        "12": 2,
+                        "13": 3,
+                        "14": 4,
+                        "15": 3,
+                        "16": 4,
+                        "17": 1
+                    }
+                }
+            }
+        },
+        {
+            "id": "442987",
+            "name": "Projeto de Aquisição e Controlo",
+            "year": 3,
+            "semester": "2",
+            "code": "FIS3015",
+            "acronym": "FIS3015",
+            "credits": "3",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443044",
+            "name": "Física da Matéria Condensada",
+            "year": 3,
+            "semester": "2",
+            "code": "FIS3005",
+            "acronym": "FIS3005",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442983",
+            "name": "Desenho de CAD e Oficina",
+            "year": 3,
+            "semester": "2",
+            "code": "D3001",
+            "acronym": "D3001",
+            "credits": "3",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442990",
+            "name": "Nanotecnologias",
+            "year": 4,
+            "semester": "1",
+            "code": "FIS4010",
+            "acronym": "FIS4010",
+            "credits": "3",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443163",
+            "name": "Métodos Computacionais em Engenharia",
+            "year": 4,
+            "semester": "1",
+            "code": "F4021",
+            "acronym": "F4021",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442992",
+            "name": "Técnicas  Laboratoriais Avançadas I",
+            "year": 4,
+            "semester": "1",
+            "code": "FIS4015",
+            "acronym": "FIS4015",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "444922",
+            "name": "Micro e Nano Fabricação",
+            "year": 4,
+            "semester": "1",
+            "code": "F4022",
+            "acronym": "F4022",
+            "credits": "3",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "442993",
+            "name": "Aquisição e Processamento de Sinal",
+            "year": 4,
+            "semester": "2",
+            "code": "ACSPI4001",
+            "acronym": "ACSPI4001",
+            "credits": "6",
+            "average_grade": 13.484848484848484,
+            "average_pass_rate": 74.58500000000001,
+            "difficulty": 3.514427272727273,
+            "grade_count": 33,
+            "grades": {
+                "10": 7,
+                "12": 3,
+                "13": 4,
+                "14": 5,
+                "15": 6,
+                "16": 4,
+                "18": 1,
+                "11": 1,
+                "17": 2
+            },
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": 13.105263157894736,
+                    "pass_rate": 79.17,
+                    "difficulty": 3.5491894736842107,
+                    "grade_count": 19,
+                    "grades": {
+                        "10": 6,
+                        "12": 1,
+                        "13": 2,
+                        "14": 4,
+                        "15": 3,
+                        "16": 2,
+                        "18": 1
+                    }
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": 13.999999999999998,
+                    "pass_rate": 70.0,
+                    "difficulty": 3.5,
+                    "grade_count": 14,
+                    "grades": {
+                        "10": 1,
+                        "11": 1,
+                        "12": 2,
+                        "13": 2,
+                        "14": 1,
+                        "15": 3,
+                        "16": 2,
+                        "17": 2
+                    }
+                }
+            }
+        },
+        {
+            "id": "442997",
+            "name": "Técnicas  Laboratoriais Avançadas II",
+            "year": 4,
+            "semester": "2",
+            "code": "FIS4016",
+            "acronym": "FIS4016",
+            "credits": "6",
+            "average_grade": 0.0,
+            "average_pass_rate": null,
+            "difficulty": null,
+            "grade_count": 0,
+            "grades": {},
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                }
+            }
+        },
+        {
+            "id": "443006",
+            "name": "Empreendedorismo e Inovação",
+            "year": 5,
+            "semester": "1",
+            "code": "GEST5001",
+            "acronym": "GEST5001",
+            "credits": "6",
+            "average_grade": 14.0,
+            "average_pass_rate": 66.66499999999999,
+            "difficulty": 3.4333,
+            "grade_count": 1,
+            "grades": {
+                "14": 1
+            },
+            "years": {
+                "2010": {
+                    "year": 2010,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2011": {
+                    "year": 2011,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2012": {
+                    "year": 2012,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2013": {
+                    "year": 2013,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2014": {
+                    "year": 2014,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2015": {
+                    "year": 2015,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2016": {
+                    "year": 2016,
+                    "average_grade": null,
+                    "pass_rate": null,
+                    "difficulty": null,
+                    "grade_count": 0,
+                    "grades": null
+                },
+                "2017": {
+                    "year": 2017,
+                    "average_grade": 0.0,
+                    "pass_rate": 100.0,
+                    "difficulty": 2.0,
+                    "grade_count": 0,
+                    "grades": {}
+                },
+                "2018": {
+                    "year": 2018,
+                    "average_grade": 14.0,
+                    "pass_rate": 33.33,
+                    "difficulty": 2.7666000000000004,
+                    "grade_count": 1,
+                    "grades": {
+                        "14": 1
+                    }
+                }
+            }
+        }
+    ]
+}

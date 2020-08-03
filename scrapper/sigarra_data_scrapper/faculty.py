@@ -1,4 +1,5 @@
-import logging, sys
+import logging
+import sys
 
 from . import Session, Course
 from . import utils as _utils
@@ -33,20 +34,28 @@ class Faculty:
         self.session = Session(auth['user'], auth['password'], self)
         self.verbosity = verbosity
 
-        #logging.basicConfig(
+        # logging.basicConfig(
         #    format='[%(levelname)] %(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
-        #logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
+        # logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
 
         root = logging.getLogger('sigarra_data_scrapper')
         root.setLevel(logging.DEBUG)
 
         handler = logging.StreamHandler(sys.stdout)
         handler.setLevel(logging.DEBUG)
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
+        formatter = logging.Formatter(
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
         handler.setFormatter(formatter)
         root.addHandler(handler)
-        
+
         self.logger = root
+
+    def __fetched(self, id):
+        for course in self.courses:
+            if course.curricular_plan_id == id:
+                return True
+
+        return False
 
     def fetch_courses(self):
         """
@@ -56,7 +65,13 @@ class Faculty:
         """
         for id in self.course_ids:
             if self.verbosity is True:
-                self.logger.info('Getting data for course with params: {{ \'id\': {} }}'.format(id))
+                self.logger.info(
+                    'Getting data for course with params: {{ \'id\': {} }}'.format(id))
+
+            if self.__fetched(id):
+                self.logger.info(
+                    'Course data is already fetched for course with params: {{ \'id\': {} }}'.format(id))
+                continue
 
             self.courses.append(Course(self, id))
 
