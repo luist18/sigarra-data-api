@@ -105,7 +105,8 @@ def get_course_units_by_semester(year_div, semester):
 
             code = row.find('td', {'class': 'k'}).text
             acronym = row.find('td', {'class': 'l'}).text
-            credits = row.find('td', {'class': 'n'}).text
+            credits = (float)(
+                row.find('td', {'class': 'n'}).text.replace(',', '.'))
 
             id = href.split('=')[1]
             name = a.text

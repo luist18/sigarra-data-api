@@ -173,11 +173,10 @@ class CourseUnit:
 
         This method transforms the object into a JSON object with every data stored in the class.
         """
-        years_object = {}
+        years_object = []
 
         for year_item in self.years.items():
-            year = year_item[0]
-            years_object[year] = year_item[1].json_object()
+            years_object.append(year_item[1].json_object())
 
         object = {
             'id': self.id,
