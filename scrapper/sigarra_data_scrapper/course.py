@@ -128,7 +128,9 @@ class Course:
 
         object = {
             'name': self.name,
-            'id': self.curricular_plan_id,
+            'curricular_plan_id': self.curricular_plan_id,
+            'faculty_id': self.faculty.acronym,
+            'faculty_name': self.faculty.name,
             'difficulty': self.difficulty,
             'course_units': course_units_object
         }
