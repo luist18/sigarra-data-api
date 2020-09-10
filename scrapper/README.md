@@ -21,7 +21,7 @@ The **scrapper** is responsible for fetching the data (*i.e,* the pass rate and 
 
 The scrapper needs the credentials of any student of any of the 14 faculties to work as the pass rate and grades are exclusive data for the students of the University of Porto.
 
-The scrapping process might take a while as it scraps a lot of data. For example, the process of scrapping the data from the **ten** Integrated Masters taught at the Faculty of Engineering of the University of Porto takes about ~12 minutes.
+The scrapping process might take a while as it scrapes a lot of data. For example, the process of scrapping the data from the **ten** Integrated Masters taught at the Faculty of Engineering of the University of Porto takes about ~12 minutes.
 
 ## Installation
 
@@ -128,75 +128,96 @@ For demonstration purposes the data shown is shortened from the original data.
 
 ```json
 {
-    "name": "Mestrado Integrado em Engenharia Química",
-    "id": 2708,
-    "difficulty": 3.526216989553871,
+    "name": "Mestrado Integrado em Engenharia Informática e Computação",
+    "curricular_plan_id": 2496,
+    "faculty_id": "feup",
+    "faculty_name": "Faculdade de Engenharia",
+    "difficulty": 3.614957047730138,
     "course_units": [
         {
-            "id": "436762",
-            "name": "Álgebra",
+            "id": "436426",
+            "name": "Matemática Discreta",
             "year": 1,
-            "semester": "1",
-            "code": "EQ0058",
-            "acronym": "A",
-            "credits": "5",
-            "average_grade": 14.018957345971565,
-            "average_pass_rate": 87.82555555555557,
-            "difficulty": 3.859354713006846,
-            "grade_count": 422,
+            "semester": 1,
+            "code": "EIC0011",
+            "acronym": "MDIS",
+            "credits": 6.0,
+            "average_grade": 10.816378758797187,
+            "average_pass_rate": 67.82999999999998,
+            "difficulty": 2.979056813819578,
+            "grade_count": 1563,
             "grades": {
-                "2": 1,
-                "6": 3,
-                "7": 6,
-                "8": 6,
-                "10": 38,
-                "11": 19,
-                "12": 36,
-                "13": 55,
-                "14": 39,
+                "3": 41,
+                "4": 37,
+                "6": 41,
+                "7": 58,
+                "8": 74,
+                "9": 63,
+                "10": 281,
+                "11": 209,
+                "12": 179,
+                "13": 147,
+                "14": 106,
                 "15": 78,
-                "16": 65,
-                "17": 38,
-                "18": 26,
-                "19": 9,
-                "5": 1,
-                "4": 1,
-                "20": 1
+                "16": 66,
+                "17": 42,
+                "18": 35,
+                "19": 13,
+                "5": 30,
+                "1": 25,
+                "2": 30,
+                "20": 6,
+                "0": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
-                    "average_grade": null,
-                    "pass_rate": 81.61,
-                    "difficulty": null,
-                    "grade_count": 0,
-                    "grades": null
-                },
-                "The rest of the data goes here": "Not shown for demonstration purposes",
-                "The rest of the data goes here": "Not shown for demonstration purposes",
-                "The rest of the data goes here": "Not shown for demonstration purposes",
-                "2018": {
-                    "year": 2018,
-                    "average_grade": 14.97142857142857,
-                    "pass_rate": 94.52,
-                    "difficulty": 4.136114285714285,
-                    "grade_count": 70,
+                    "average_grade": 11.96551724137931,
+                    "pass_rate": 68.28,
+                    "difficulty": 3.1604275862068967,
+                    "grade_count": 116,
                     "grades": {
-                        "8": 1,
-                        "10": 5,
-                        "11": 3,
-                        "12": 1,
-                        "13": 6,
-                        "14": 9,
-                        "15": 8,
-                        "16": 21,
+                        "3": 1,
+                        "4": 2,
+                        "6": 2,
+                        "7": 3,
+                        "8": 8,
+                        "9": 1,
+                        "10": 20,
+                        "11": 12,
+                        "12": 17,
+                        "13": 17,
+                        "14": 13,
+                        "15": 4,
+                        "16": 5,
                         "17": 7,
-                        "18": 6,
-                        "19": 2,
-                        "20": 1
+                        "18": 3,
+                        "19": 1
+                    }
+                },
+                {
+                    "year": 2011,
+                    "average_grade": 10.345864661654133,
+                    "pass_rate": 52.47,
+                    "difficulty": 2.60127969924812,
+                    "grade_count": 133,
+                    "grades": {
+                        "5": 1,
+                        "6": 6,
+                        "7": 9,
+                        "8": 18,
+                        "9": 14,
+                        "10": 26,
+                        "11": 22,
+                        "12": 14,
+                        "13": 7,
+                        "14": 6,
+                        "15": 5,
+                        "16": 3,
+                        "17": 2
                     }
                 }
-            }
+            ]
         },
         {
             "The rest of the data goes here": "Not shown for demonstration purposes"

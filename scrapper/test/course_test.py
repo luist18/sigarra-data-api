@@ -19,17 +19,17 @@ class TestCourse(unittest.TestCase):
 
         self.faculty = Faculty(auth, 'FEUP', verbosity=True)
 
-    def test_quimica(self):
-        self.faculty.course_ids.append(2708)
+    def test_informatica(self):
+        self.faculty.course_ids.append(2496)
 
         self.faculty.fetch_courses()
 
         course = self.faculty.courses[0]
 
-        course.to_json('mieq.json')
+        course.to_json('{}.json'.format(course.name))
 
         self.assertEqual(
-            course.name, 'Mestrado Integrado em Engenharia Química')
+            course.name, 'Mestrado Integrado em Engenharia Informática e Computação')
 
 
 if __name__ == '__main__':

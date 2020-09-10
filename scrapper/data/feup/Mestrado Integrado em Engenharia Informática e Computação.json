@@ -1,16 +1,18 @@
 {
     "name": "Mestrado Integrado em Engenharia Informática e Computação",
-    "id": 2496,
-    "difficulty": 3.6135333225967883,
+    "curricular_plan_id": 2496,
+    "faculty_id": "feup",
+    "faculty_name": "Faculdade de Engenharia",
+    "difficulty": 3.614957047730138,
     "course_units": [
         {
             "id": "436426",
             "name": "Matemática Discreta",
             "year": 1,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0011",
             "acronym": "MDIS",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 10.816378758797187,
             "average_pass_rate": 67.82999999999998,
             "difficulty": 2.979056813819578,
@@ -38,8 +40,8 @@
                 "20": 6,
                 "0": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 11.96551724137931,
                     "pass_rate": 68.28,
@@ -64,7 +66,7 @@
                         "19": 1
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 10.345864661654133,
                     "pass_rate": 52.47,
@@ -86,7 +88,7 @@
                         "17": 2
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 10.782178217821784,
                     "pass_rate": 77.14,
@@ -115,7 +117,7 @@
                         "20": 1
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 9.70731707317073,
                     "pass_rate": 57.87,
@@ -144,7 +146,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 9.558659217877093,
                     "pass_rate": 62.3,
@@ -172,7 +174,7 @@
                         "19": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.267379679144387,
                     "pass_rate": 75.76,
@@ -201,7 +203,7 @@
                         "20": 2
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 11.313186813186814,
                     "pass_rate": 73.96,
@@ -229,7 +231,7 @@
                         "20": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 11.08994708994709,
                     "pass_rate": 65.52,
@@ -257,7 +259,7 @@
                         "19": 3
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 11.369668246445498,
                     "pass_rate": 77.17,
@@ -286,16 +288,16 @@
                         "19": 4
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436425",
             "name": "Fundamentos da Programação",
             "year": 1,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0005",
             "acronym": "FPRO",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 14.957494407158833,
             "average_pass_rate": 74.76333333333335,
             "difficulty": 3.7388908277404918,
@@ -316,8 +318,8 @@
                 "9": 5,
                 "7": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 73.01,
@@ -325,7 +327,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 79.47,
@@ -333,7 +335,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 14.382608695652175,
                     "pass_rate": 70.55,
@@ -352,7 +354,7 @@
                         "19": 6
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.577981651376147,
                     "pass_rate": 63.37,
@@ -372,7 +374,7 @@
                         "20": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.776119402985074,
                     "pass_rate": 74.01,
@@ -394,7 +396,7 @@
                         "20": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 15.690647482014388,
                     "pass_rate": 84.15,
@@ -414,7 +416,7 @@
                         "19": 22
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 14.649122807017545,
                     "pass_rate": 74.34,
@@ -435,7 +437,7 @@
                         "20": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.805555555555555,
                     "pass_rate": 80.34,
@@ -456,7 +458,7 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 14.546762589928058,
                     "pass_rate": 73.63,
@@ -478,16 +480,16 @@
                         "20": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436423",
             "name": "Álgebra",
             "year": 1,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0003",
             "acronym": "ALGE",
-            "credits": "4,5",
+            "credits": 4.5,
             "average_grade": 13.150964812712829,
             "average_pass_rate": 74.35111111111111,
             "difficulty": 3.4596669441291468,
@@ -515,8 +517,8 @@
                 "20": 32,
                 "9": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 51.92,
@@ -524,7 +526,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 76.11,
@@ -532,7 +534,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 67.3,
@@ -540,7 +542,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 11.697183098591548,
                     "pass_rate": 67.07,
@@ -569,7 +571,7 @@
                         "20": 6
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.841059602649004,
                     "pass_rate": 78.79,
@@ -598,7 +600,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.55,
                     "pass_rate": 78.71,
@@ -627,7 +629,7 @@
                         "20": 7
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.5,
                     "pass_rate": 81.46,
@@ -656,7 +658,7 @@
                         "20": 7
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.4,
                     "pass_rate": 81.13,
@@ -684,7 +686,7 @@
                         "20": 3
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 13.84472049689441,
                     "pass_rate": 86.67,
@@ -711,16 +713,16 @@
                         "20": 8
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436427",
             "name": "Arquitectura e Organização de Computadores",
             "year": 1,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0083",
             "acronym": "AOCO",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 12.417832167832167,
             "average_pass_rate": 71.31444444444443,
             "difficulty": 3.288963714063714,
@@ -748,8 +750,8 @@
                 "20": 1,
                 "0": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 13.046296296296296,
                     "pass_rate": 63.92,
@@ -770,7 +772,7 @@
                         "19": 1
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 75.15,
@@ -778,7 +780,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 13.788461538461538,
                     "pass_rate": 59.06,
@@ -799,7 +801,7 @@
                         "19": 2
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 11.206451612903228,
                     "pass_rate": 58.82,
@@ -827,7 +829,7 @@
                         "19": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 11.855345911949689,
                     "pass_rate": 71.96,
@@ -856,7 +858,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.248366013071895,
                     "pass_rate": 81.29,
@@ -881,7 +883,7 @@
                         "19": 4
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.686666666666667,
                     "pass_rate": 84.66,
@@ -907,7 +909,7 @@
                         "19": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.47019867549669,
                     "pass_rate": 76.92,
@@ -935,7 +937,7 @@
                         "19": 8
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 11.75609756097561,
                     "pass_rate": 70.05,
@@ -962,16 +964,16 @@
                         "18": 5
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436424",
             "name": "Análise Matemática",
             "year": 1,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0004",
             "acronym": "AMAT",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 12.206237424547282,
             "average_pass_rate": 62.708888888888886,
             "difficulty": 3.08511339145987,
@@ -999,8 +1001,8 @@
                 "19": 27,
                 "20": 4
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 43.93,
@@ -1008,7 +1010,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 63.13,
@@ -1016,7 +1018,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 10.248062015503876,
                     "pass_rate": 51.91,
@@ -1044,7 +1046,7 @@
                         "18": 1
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 11.901960784313724,
                     "pass_rate": 63.73,
@@ -1071,7 +1073,7 @@
                         "19": 4
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.315068493150683,
                     "pass_rate": 68.28,
@@ -1099,7 +1101,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 12.976190476190474,
                     "pass_rate": 65.32,
@@ -1125,7 +1127,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.191176470588234,
                     "pass_rate": 68.82,
@@ -1152,7 +1154,7 @@
                         "20": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.197183098591548,
                     "pass_rate": 68.36,
@@ -1179,7 +1181,7 @@
                         "19": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 12.537037037037036,
                     "pass_rate": 70.9,
@@ -1207,16 +1209,16 @@
                         "20": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "438941",
             "name": "Projeto FEUP",
             "year": 1,
-            "semester": "1",
+            "semester": 1,
             "code": "FEUP002",
             "acronym": "PF",
-            "credits": "1,5",
+            "credits": 1.5,
             "average_grade": 14.97612941408562,
             "average_pass_rate": 93.86888888888889,
             "difficulty": 4.12379718989062,
@@ -1243,8 +1245,8 @@
                 "4": 1,
                 "5": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 91.93,
@@ -1252,7 +1254,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 92.66,
@@ -1260,7 +1262,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 92.23,
@@ -1268,7 +1270,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.363213038416765,
                     "pass_rate": 93.31,
@@ -1293,7 +1295,7 @@
                         "19": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 15.266066838046273,
                     "pass_rate": 93.0,
@@ -1315,7 +1317,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 15.17359413202934,
                     "pass_rate": 95.34,
@@ -1335,7 +1337,7 @@
                         "18": 19
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 15.03030303030303,
                     "pass_rate": 95.97,
@@ -1356,7 +1358,7 @@
                         "20": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.122969837587005,
                     "pass_rate": 95.22,
@@ -1379,7 +1381,7 @@
                         "19": 6
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 14.93847874720358,
                     "pass_rate": 95.16,
@@ -1403,31 +1405,31 @@
                         "19": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436432",
             "name": "Métodos Estatísticos",
             "year": 1,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0105",
             "acronym": "MEST",
-            "credits": "4,5",
-            "average_grade": 12.692904656319293,
+            "credits": 4.5,
+            "average_grade": 12.694352159468437,
             "average_pass_rate": 63.61,
-            "difficulty": 3.1761356984478937,
-            "grade_count": 902,
+            "difficulty": 3.1763528239202654,
+            "grade_count": 903,
             "grades": {
                 "0": 1,
                 "5": 9,
                 "6": 14,
                 "7": 18,
                 "8": 49,
-                "9": 13,
-                "10": 112,
+                "9": 12,
+                "10": 113,
                 "11": 85,
                 "12": 104,
-                "13": 120,
+                "13": 121,
                 "14": 92,
                 "15": 95,
                 "16": 70,
@@ -1440,8 +1442,8 @@
                 "2": 1,
                 "3": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 55.98,
@@ -1449,7 +1451,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 55.38,
@@ -1457,7 +1459,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 63.55,
@@ -1465,7 +1467,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.522388059701491,
                     "pass_rate": 60.85,
@@ -1490,7 +1492,7 @@
                         "19": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.87218045112782,
                     "pass_rate": 64.55,
@@ -1515,7 +1517,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.492957746478874,
                     "pass_rate": 65.22,
@@ -1541,7 +1543,7 @@
                         "19": 2
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.925925925925926,
                     "pass_rate": 63.59,
@@ -1561,7 +1563,7 @@
                         "18": 4
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.691011235955056,
                     "pass_rate": 68.95,
@@ -1587,22 +1589,22 @@
                         "19": 5
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.461111111111109,
+                    "average_grade": 13.464088397790054,
                     "pass_rate": 74.42,
-                    "difficulty": 3.507566666666666,
-                    "grade_count": 180,
+                    "difficulty": 3.5080132596685076,
+                    "grade_count": 181,
                     "grades": {
                         "5": 1,
                         "6": 1,
                         "7": 2,
                         "8": 14,
-                        "9": 4,
-                        "10": 12,
+                        "9": 3,
+                        "10": 13,
                         "11": 15,
                         "12": 12,
-                        "13": 22,
+                        "13": 23,
                         "14": 22,
                         "15": 23,
                         "16": 24,
@@ -1612,16 +1614,16 @@
                         "20": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436429",
             "name": "Física I",
             "year": 1,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0010",
             "acronym": "FISI1",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 12.13679745493107,
             "average_pass_rate": 56.06666666666667,
             "difficulty": 2.941852951572994,
@@ -1647,8 +1649,8 @@
                 "20": 17,
                 "4": 7
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 52.68,
@@ -1656,7 +1658,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 56.37,
@@ -1664,7 +1666,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 42.23,
@@ -1672,7 +1674,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.259036144578314,
                     "pass_rate": 62.83,
@@ -1699,7 +1701,7 @@
                         "20": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 11.091603053435115,
                     "pass_rate": 51.79,
@@ -1726,7 +1728,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.707792207792208,
                     "pass_rate": 55.24,
@@ -1752,7 +1754,7 @@
                         "20": 3
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 11.718562874251498,
                     "pass_rate": 59.13,
@@ -1779,7 +1781,7 @@
                         "20": 4
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.27710843373494,
                     "pass_rate": 63.56,
@@ -1805,7 +1807,7 @@
                         "20": 5
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 12.534591194968554,
                     "pass_rate": 60.77,
@@ -1832,26 +1834,26 @@
                         "20": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436431",
             "name": "Microprocessadores e Computadores Pessoais",
             "year": 1,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0016",
             "acronym": "MPCP",
-            "credits": "6",
-            "average_grade": 12.842207163601163,
+            "credits": 6.0,
+            "average_grade": 12.842359767891683,
             "average_pass_rate": 64.47999999999999,
-            "difficulty": 3.2159310745401744,
-            "grade_count": 1033,
+            "difficulty": 3.2159539651837523,
+            "grade_count": 1034,
             "grades": {
                 "4": 3,
-                "7": 14,
+                "7": 13,
                 "8": 30,
                 "9": 22,
-                "10": 158,
+                "10": 160,
                 "11": 139,
                 "12": 106,
                 "13": 118,
@@ -1868,8 +1870,8 @@
                 "3": 1,
                 "1": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 55.34,
@@ -1877,7 +1879,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 61.62,
@@ -1885,7 +1887,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 12.503649635036494,
                     "pass_rate": 64.18,
@@ -1908,7 +1910,7 @@
                         "19": 3
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.357723577235772,
                     "pass_rate": 61.03,
@@ -1930,7 +1932,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.087719298245611,
                     "pass_rate": 58.95,
@@ -1952,7 +1954,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 12.942307692307693,
                     "pass_rate": 68.78,
@@ -1976,7 +1978,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.436363636363636,
                     "pass_rate": 70.41,
@@ -2000,7 +2002,7 @@
                         "19": 5
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.45398773006135,
                     "pass_rate": 67.74,
@@ -2027,20 +2029,20 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.24,
+                    "average_grade": 13.238636363636363,
                     "pass_rate": 72.27,
-                    "difficulty": 3.4314,
-                    "grade_count": 175,
+                    "difficulty": 3.4311954545454544,
+                    "grade_count": 176,
                     "grades": {
                         "1": 1,
                         "5": 3,
                         "6": 6,
-                        "7": 3,
+                        "7": 2,
                         "8": 4,
                         "9": 1,
-                        "10": 17,
+                        "10": 19,
                         "11": 17,
                         "12": 18,
                         "13": 25,
@@ -2053,30 +2055,30 @@
                         "20": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436430",
             "name": "Programação",
             "year": 1,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0012",
             "acronym": "PROG",
-            "credits": "7,5",
-            "average_grade": 14.495135135135135,
+            "credits": 7.5,
+            "average_grade": 14.503239740820737,
             "average_pass_rate": 63.96333333333333,
-            "difficulty": 3.4535369369369366,
-            "grade_count": 925,
+            "difficulty": 3.454752627789777,
+            "grade_count": 926,
             "grades": {
                 "10": 43,
-                "11": 73,
-                "12": 89,
+                "11": 72,
+                "12": 88,
                 "13": 113,
-                "14": 99,
-                "15": 118,
+                "14": 100,
+                "15": 120,
                 "16": 125,
-                "17": 113,
-                "18": 82,
+                "17": 112,
+                "18": 83,
                 "19": 39,
                 "20": 9,
                 "8": 8,
@@ -2086,8 +2088,8 @@
                 "6": 2,
                 "7": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 48.88,
@@ -2095,7 +2097,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 62.78,
@@ -2103,7 +2105,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 14.574074074074074,
                     "pass_rate": 59.02,
@@ -2121,7 +2123,7 @@
                         "18": 12
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.429824561403509,
                     "pass_rate": 60.64,
@@ -2141,7 +2143,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.129310344827585,
                     "pass_rate": 63.19,
@@ -2163,7 +2165,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.070866141732283,
                     "pass_rate": 66.49,
@@ -2183,7 +2185,7 @@
                         "19": 4
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 14.475862068965517,
                     "pass_rate": 71.21,
@@ -2206,7 +2208,7 @@
                         "19": 8
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.15151515151515,
                     "pass_rate": 72.17,
@@ -2231,41 +2233,41 @@
                         "20": 6
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 14.426666666666668,
+                    "average_grade": 14.476821192052979,
                     "pass_rate": 71.29,
-                    "difficulty": 3.5898000000000003,
-                    "grade_count": 150,
+                    "difficulty": 3.5973231788079474,
+                    "grade_count": 151,
                     "grades": {
                         "8": 2,
                         "10": 7,
-                        "11": 10,
-                        "12": 14,
+                        "11": 9,
+                        "12": 13,
                         "13": 23,
-                        "14": 22,
-                        "15": 15,
+                        "14": 23,
+                        "15": 17,
                         "16": 19,
-                        "17": 24,
-                        "18": 11,
+                        "17": 23,
+                        "18": 12,
                         "19": 2,
                         "20": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436428",
             "name": "Complementos de Matemática",
             "year": 1,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0009",
             "acronym": "CMAT",
-            "credits": "6",
-            "average_grade": 11.965517241379308,
+            "credits": 6.0,
+            "average_grade": 11.967578520770012,
             "average_pass_rate": 52.205555555555556,
-            "difficulty": 2.8389386973180075,
-            "grade_count": 986,
+            "difficulty": 2.8392478892266126,
+            "grade_count": 987,
             "grades": {
                 "0": 8,
                 "1": 21,
@@ -2281,7 +2283,7 @@
                 "11": 90,
                 "12": 107,
                 "13": 78,
-                "14": 83,
+                "14": 84,
                 "15": 86,
                 "16": 76,
                 "17": 77,
@@ -2289,8 +2291,8 @@
                 "19": 24,
                 "20": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 21.94,
@@ -2298,7 +2300,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 37.66,
@@ -2306,7 +2308,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 46.26,
@@ -2314,7 +2316,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 10.864864864864867,
                     "pass_rate": 53.64,
@@ -2344,7 +2346,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 10.381818181818181,
                     "pass_rate": 51.93,
@@ -2372,7 +2374,7 @@
                         "19": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.856250000000001,
                     "pass_rate": 58.52,
@@ -2400,7 +2402,7 @@
                         "19": 3
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 11.932098765432098,
                     "pass_rate": 61.68,
@@ -2428,7 +2430,7 @@
                         "19": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.392638036809815,
                     "pass_rate": 68.22,
@@ -2457,12 +2459,12 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.655629139072847,
+                    "average_grade": 13.657894736842104,
                     "pass_rate": 70.0,
-                    "difficulty": 3.448344370860927,
-                    "grade_count": 151,
+                    "difficulty": 3.4486842105263156,
+                    "grade_count": 152,
                     "grades": {
                         "2": 1,
                         "4": 1,
@@ -2475,7 +2477,7 @@
                         "11": 21,
                         "12": 10,
                         "13": 12,
-                        "14": 10,
+                        "14": 11,
                         "15": 18,
                         "16": 17,
                         "17": 20,
@@ -2483,16 +2485,16 @@
                         "19": 6
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436437",
             "name": "Teoria da Computação",
             "year": 2,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0022",
             "acronym": "TCOM",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 12.198876404494383,
             "average_pass_rate": 66.24000000000001,
             "difficulty": 3.1546314606741577,
@@ -2516,8 +2518,8 @@
                 "19": 8,
                 "20": 7
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 68.18,
@@ -2525,7 +2527,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 58.0,
@@ -2533,7 +2535,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 65.13,
@@ -2541,7 +2543,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 10.560810810810812,
                     "pass_rate": 55.85,
@@ -2566,7 +2568,7 @@
                         "19": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.274809160305345,
                     "pass_rate": 64.21,
@@ -2589,7 +2591,7 @@
                         "20": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 12.209459459459461,
                     "pass_rate": 67.17,
@@ -2612,7 +2614,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.5,
                     "pass_rate": 73.76,
@@ -2632,7 +2634,7 @@
                         "18": 4
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.47297297297297,
                     "pass_rate": 70.26,
@@ -2654,7 +2656,7 @@
                         "19": 2
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 13.108280254777071,
                     "pass_rate": 73.6,
@@ -2677,19 +2679,19 @@
                         "20": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436434",
             "name": "Física II",
             "year": 2,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0014",
             "acronym": "FISI2",
-            "credits": "6",
-            "average_grade": 11.863265306122448,
+            "credits": 6.0,
+            "average_grade": 11.86734693877551,
             "average_pass_rate": 61.21555555555555,
-            "difficulty": 3.003800907029478,
+            "difficulty": 3.0044131519274373,
             "grade_count": 980,
             "grades": {
                 "3": 9,
@@ -2700,11 +2702,11 @@
                 "9": 40,
                 "10": 168,
                 "11": 120,
-                "12": 72,
+                "12": 71,
                 "13": 67,
                 "14": 57,
                 "15": 66,
-                "16": 46,
+                "16": 47,
                 "17": 43,
                 "18": 40,
                 "20": 28,
@@ -2714,8 +2716,8 @@
                 "1": 1,
                 "2": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 61.42,
@@ -2723,7 +2725,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 53.7,
@@ -2731,7 +2733,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 59.6,
@@ -2739,7 +2741,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 10.981012658227849,
                     "pass_rate": 62.3,
@@ -2764,7 +2766,7 @@
                         "20": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 11.957142857142857,
                     "pass_rate": 60.75,
@@ -2790,7 +2792,7 @@
                         "20": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.251572327044027,
                     "pass_rate": 54.4,
@@ -2817,7 +2819,7 @@
                         "20": 5
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.273224043715848,
                     "pass_rate": 64.65,
@@ -2845,7 +2847,7 @@
                         "20": 5
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.14942528735632,
                     "pass_rate": 62.33,
@@ -2872,11 +2874,11 @@
                         "20": 2
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 12.457831325301205,
+                    "average_grade": 12.481927710843374,
                     "pass_rate": 71.79,
-                    "difficulty": 3.304474698795181,
+                    "difficulty": 3.3080891566265063,
                     "grade_count": 166,
                     "grades": {
                         "2": 1,
@@ -2889,27 +2891,27 @@
                         "9": 8,
                         "10": 35,
                         "11": 27,
-                        "12": 11,
+                        "12": 10,
                         "13": 13,
                         "14": 6,
                         "15": 9,
-                        "16": 7,
+                        "16": 8,
                         "17": 6,
                         "18": 6,
                         "19": 9,
                         "20": 11
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436435",
             "name": "Laboratório de Computadores",
             "year": 2,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0020",
             "acronym": "LCOM",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 14.598880597014924,
             "average_pass_rate": 67.89777777777778,
             "difficulty": 3.547787645107794,
@@ -2931,8 +2933,8 @@
                 "20": 37,
                 "6": 12
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 13.948453608247423,
                     "pass_rate": 78.99,
@@ -2953,7 +2955,7 @@
                         "19": 2
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 14.229885057471266,
                     "pass_rate": 70.09,
@@ -2976,7 +2978,7 @@
                         "20": 4
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 13.174311926605506,
                     "pass_rate": 62.09,
@@ -2998,7 +3000,7 @@
                         "19": 7
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.74561403508772,
                     "pass_rate": 61.27,
@@ -3022,7 +3024,7 @@
                         "20": 5
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.214285714285715,
                     "pass_rate": 73.71,
@@ -3046,7 +3048,7 @@
                         "20": 4
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.925233644859814,
                     "pass_rate": 63.58,
@@ -3069,7 +3071,7 @@
                         "20": 5
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 15.260563380281688,
                     "pass_rate": 67.49,
@@ -3091,7 +3093,7 @@
                         "20": 5
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.294871794871794,
                     "pass_rate": 72.6,
@@ -3115,7 +3117,7 @@
                         "20": 7
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.966666666666667,
                     "pass_rate": 61.26,
@@ -3138,25 +3140,25 @@
                         "20": 7
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436436",
             "name": "Métodos Numéricos",
             "year": 2,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0021",
             "acronym": "MNUM",
-            "credits": "4,5",
-            "average_grade": 12.466111771700355,
+            "credits": 4.5,
+            "average_grade": 12.475624256837097,
             "average_pass_rate": 78.60222222222222,
-            "difficulty": 3.441961210199498,
+            "difficulty": 3.443388082970009,
             "grade_count": 841,
             "grades": {
                 "0": 2,
                 "1": 8,
                 "3": 7,
-                "4": 12,
+                "4": 11,
                 "5": 11,
                 "6": 13,
                 "7": 9,
@@ -3164,7 +3166,7 @@
                 "9": 2,
                 "10": 125,
                 "11": 89,
-                "12": 90,
+                "12": 91,
                 "13": 76,
                 "14": 107,
                 "15": 95,
@@ -3175,8 +3177,8 @@
                 "2": 12,
                 "19": 14
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 75.95,
@@ -3184,7 +3186,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 78.46,
@@ -3192,7 +3194,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 77.36,
@@ -3200,7 +3202,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 11.349206349206348,
                     "pass_rate": 74.82,
@@ -3227,7 +3229,7 @@
                         "18": 7
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.626016260162602,
                     "pass_rate": 76.43,
@@ -3253,7 +3255,7 @@
                         "20": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.901960784313722,
                     "pass_rate": 79.17,
@@ -3280,7 +3282,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.927007299270073,
                     "pass_rate": 81.01,
@@ -3303,7 +3305,7 @@
                         "19": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.006578947368421,
                     "pass_rate": 84.57,
@@ -3329,15 +3331,15 @@
                         "20": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 12.88,
+                    "average_grade": 12.933333333333334,
                     "pass_rate": 79.65,
-                    "difficulty": 3.5250000000000004,
+                    "difficulty": 3.5330000000000004,
                     "grade_count": 150,
                     "grades": {
                         "3": 2,
-                        "4": 2,
+                        "4": 1,
                         "5": 2,
                         "6": 2,
                         "7": 2,
@@ -3345,7 +3347,7 @@
                         "9": 1,
                         "10": 21,
                         "11": 19,
-                        "12": 12,
+                        "12": 13,
                         "13": 10,
                         "14": 24,
                         "15": 19,
@@ -3355,16 +3357,16 @@
                         "19": 5
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436433",
             "name": "Algoritmos e Estruturas de Dados",
             "year": 2,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0013",
             "acronym": "AEDA",
-            "credits": "7,5",
+            "credits": 7.5,
             "average_grade": 14.418454935622316,
             "average_pass_rate": 69.06777777777778,
             "difficulty": 3.5441237958989023,
@@ -3390,8 +3392,8 @@
                 "9": 1,
                 "20": 6
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 13.480519480519481,
                     "pass_rate": 62.6,
@@ -3410,7 +3412,7 @@
                         "19": 5
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 14.927083333333332,
                     "pass_rate": 69.92,
@@ -3432,7 +3434,7 @@
                         "19": 11
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 64.78,
@@ -3440,7 +3442,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.816793893129772,
                     "pass_rate": 66.26,
@@ -3466,7 +3468,7 @@
                         "19": 5
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.844827586206899,
                     "pass_rate": 71.17,
@@ -3486,7 +3488,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.739495798319327,
                     "pass_rate": 67.44,
@@ -3509,7 +3511,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 14.345323741007194,
                     "pass_rate": 76.37,
@@ -3528,7 +3530,7 @@
                         "19": 3
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.45528455284553,
                     "pass_rate": 70.29,
@@ -3547,7 +3549,7 @@
                         "20": 2
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 14.633587786259543,
                     "pass_rate": 72.78,
@@ -3567,27 +3569,27 @@
                         "20": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436439",
             "name": "Bases de Dados",
             "year": 2,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0023",
             "acronym": "BDAD",
-            "credits": "6",
-            "average_grade": 12.89197224975223,
+            "credits": 6.0,
+            "average_grade": 12.89009900990099,
             "average_pass_rate": 70.39222222222222,
-            "difficulty": 3.341640281907279,
-            "grade_count": 1009,
+            "difficulty": 3.341359295929593,
+            "grade_count": 1010,
             "grades": {
                 "5": 1,
                 "7": 4,
                 "8": 11,
                 "9": 55,
                 "10": 85,
-                "11": 162,
+                "11": 163,
                 "12": 153,
                 "13": 153,
                 "14": 121,
@@ -3598,8 +3600,8 @@
                 "19": 5,
                 "6": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 69.18,
@@ -3607,7 +3609,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 46.43,
@@ -3615,7 +3617,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 12.224598930481282,
                     "pass_rate": 76.17,
@@ -3637,7 +3639,7 @@
                         "18": 5
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 11.956521739130435,
                     "pass_rate": 67.26,
@@ -3658,7 +3660,7 @@
                         "18": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.107438016528924,
                     "pass_rate": 72.89,
@@ -3678,7 +3680,7 @@
                         "19": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.035971223021583,
                     "pass_rate": 74.4,
@@ -3701,7 +3703,7 @@
                         "19": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.605042016806722,
                     "pass_rate": 65.52,
@@ -3720,7 +3722,7 @@
                         "18": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.053333333333335,
                     "pass_rate": 80.0,
@@ -3739,15 +3741,15 @@
                         "18": 7
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.329032258064517,
+                    "average_grade": 13.31410256410256,
                     "pass_rate": 81.68,
-                    "difficulty": 3.6329548387096775,
-                    "grade_count": 155,
+                    "difficulty": 3.6307153846153843,
+                    "grade_count": 156,
                     "grades": {
                         "10": 15,
-                        "11": 28,
+                        "11": 29,
                         "12": 23,
                         "13": 23,
                         "14": 21,
@@ -3758,16 +3760,16 @@
                         "19": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436438",
             "name": "Computação Gráfica",
             "year": 2,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0019",
             "acronym": "CGRA",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 14.826086956521738,
             "average_pass_rate": 85.12555555555556,
             "difficulty": 3.926424154589372,
@@ -3793,8 +3795,8 @@
                 "4": 1,
                 "5": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 83.94,
@@ -3802,7 +3804,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 80.53,
@@ -3810,7 +3812,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 14.768,
                     "pass_rate": 81.7,
@@ -3829,7 +3831,7 @@
                         "19": 7
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.273504273504273,
                     "pass_rate": 82.14,
@@ -3851,7 +3853,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.746153846153849,
                     "pass_rate": 83.12,
@@ -3873,7 +3875,7 @@
                         "20": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 15.0,
                     "pass_rate": 86.75,
@@ -3895,7 +3897,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.622377622377622,
                     "pass_rate": 84.91,
@@ -3917,7 +3919,7 @@
                         "18": 15
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.038709677419353,
                     "pass_rate": 90.06,
@@ -3938,7 +3940,7 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 16.049382716049383,
                     "pass_rate": 92.98,
@@ -3961,16 +3963,16 @@
                         "20": 8
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436442",
             "name": "Laboratório de Programação Orientada por Objectos",
             "year": 2,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0111",
             "acronym": "LPOO",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 16.04026845637584,
             "average_pass_rate": 80.8488888888889,
             "difficulty": 4.023018046234154,
@@ -3989,8 +3991,8 @@
                 "11": 14,
                 "20": 6
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 16.482758620689655,
                     "pass_rate": 84.47,
@@ -4007,7 +4009,7 @@
                         "19": 9
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 15.820224719101123,
                     "pass_rate": 81.48,
@@ -4027,7 +4029,7 @@
                         "19": 6
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 16.314049586776857,
                     "pass_rate": 84.62,
@@ -4045,7 +4047,7 @@
                         "20": 1
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 16.357798165137616,
                     "pass_rate": 81.34,
@@ -4062,7 +4064,7 @@
                         "19": 10
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 16.652542372881353,
                     "pass_rate": 79.05,
@@ -4081,7 +4083,7 @@
                         "20": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 16.130434782608695,
                     "pass_rate": 84.15,
@@ -4101,7 +4103,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 15.278195488721805,
                     "pass_rate": 87.5,
@@ -4120,7 +4122,7 @@
                         "19": 4
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.939393939393938,
                     "pass_rate": 77.19,
@@ -4138,7 +4140,7 @@
                         "19": 5
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.551724137931034,
                     "pass_rate": 67.84,
@@ -4157,44 +4159,43 @@
                         "20": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436441",
             "name": "Concepção e Análise de Algoritmos",
             "year": 2,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0110",
             "acronym": "CAL",
-            "credits": "6",
-            "average_grade": 12.837905236907728,
+            "credits": 6.0,
+            "average_grade": 13.191122071516645,
             "average_pass_rate": 76.80222222222223,
-            "difficulty": 3.4617302299806036,
-            "grade_count": 802,
+            "difficulty": 3.5147127551719413,
+            "grade_count": 811,
             "grades": {
-                "10": 34,
-                "11": 103,
-                "12": 151,
-                "13": 118,
-                "14": 97,
-                "15": 92,
-                "16": 62,
-                "17": 45,
-                "18": 23,
-                "19": 12,
-                "3": 8,
-                "5": 11,
-                "6": 15,
-                "7": 10,
+                "10": 44,
+                "11": 116,
+                "12": 153,
+                "13": 122,
+                "14": 100,
+                "15": 96,
+                "16": 64,
+                "17": 47,
+                "18": 26,
+                "19": 13,
+                "3": 4,
+                "5": 5,
+                "6": 8,
+                "7": 6,
                 "20": 2,
                 "0": 1,
-                "4": 8,
-                "1": 5,
-                "2": 3,
-                "9": 2
+                "4": 1,
+                "1": 2,
+                "9": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 83.09,
@@ -4202,7 +4203,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 76.42,
@@ -4210,7 +4211,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 67.95,
@@ -4218,7 +4219,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.745901639344263,
                     "pass_rate": 73.49,
@@ -4237,7 +4238,7 @@
                         "19": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 11.984251968503935,
                     "pass_rate": 70.44,
@@ -4260,7 +4261,7 @@
                         "19": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.155038759689923,
                     "pass_rate": 75.29,
@@ -4278,7 +4279,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.54421768707483,
                     "pass_rate": 84.43,
@@ -4301,7 +4302,7 @@
                         "19": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.597222222222221,
                     "pass_rate": 81.82,
@@ -4320,44 +4321,40 @@
                         "19": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 10.744360902255641,
+                    "average_grade": 12.894366197183098,
                     "pass_rate": 78.29,
-                    "difficulty": 3.1774541353383463,
-                    "grade_count": 133,
+                    "difficulty": 3.4999549295774646,
+                    "grade_count": 142,
                     "grades": {
-                        "1": 5,
-                        "2": 3,
-                        "3": 5,
-                        "4": 7,
-                        "5": 7,
-                        "6": 7,
-                        "7": 4,
-                        "9": 2,
-                        "10": 6,
-                        "11": 12,
-                        "12": 21,
-                        "13": 13,
-                        "14": 15,
-                        "15": 8,
-                        "16": 7,
-                        "17": 5,
-                        "18": 3,
-                        "19": 2,
+                        "1": 2,
+                        "3": 1,
+                        "5": 1,
+                        "9": 1,
+                        "10": 16,
+                        "11": 25,
+                        "12": 23,
+                        "13": 17,
+                        "14": 18,
+                        "15": 12,
+                        "16": 9,
+                        "17": 7,
+                        "18": 6,
+                        "19": 3,
                         "20": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436440",
             "name": "Sistemas Operativos",
             "year": 2,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0027",
             "acronym": "SOPE",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 13.152838427947598,
             "average_pass_rate": 72.49999999999999,
             "difficulty": 3.4229257641921396,
@@ -4380,8 +4377,8 @@
                 "9": 7,
                 "20": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 80.49,
@@ -4389,7 +4386,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 73.95,
@@ -4397,7 +4394,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 13.510204081632654,
                     "pass_rate": 60.12,
@@ -4415,7 +4412,7 @@
                         "18": 6
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.185840707964601,
                     "pass_rate": 66.08,
@@ -4434,7 +4431,7 @@
                         "19": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.832,
                     "pass_rate": 71.02,
@@ -4454,7 +4451,7 @@
                         "19": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.260162601626018,
                     "pass_rate": 72.09,
@@ -4473,7 +4470,7 @@
                         "19": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 12.973333333333333,
                     "pass_rate": 73.89,
@@ -4497,7 +4494,7 @@
                         "19": 4
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 12.409395973154364,
                     "pass_rate": 75.69,
@@ -4521,7 +4518,7 @@
                         "19": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 13.234177215189876,
                     "pass_rate": 79.17,
@@ -4542,26 +4539,26 @@
                         "20": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436444",
             "name": "Programação em Lógica",
             "year": 3,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0026",
             "acronym": "PLOG",
-            "credits": "4,5",
-            "average_grade": 13.201372997711669,
+            "credits": 4.5,
+            "average_grade": 13.186073059360732,
             "average_pass_rate": 75.13444444444445,
-            "difficulty": 3.482894838545639,
-            "grade_count": 874,
+            "difficulty": 3.480599847792999,
+            "grade_count": 876,
             "grades": {
                 "4": 16,
                 "5": 12,
                 "6": 21,
                 "7": 7,
-                "10": 33,
+                "10": 34,
                 "11": 61,
                 "12": 125,
                 "13": 144,
@@ -4571,15 +4568,15 @@
                 "17": 53,
                 "18": 30,
                 "19": 17,
-                "3": 4,
+                "3": 5,
                 "8": 3,
                 "9": 6,
                 "2": 4,
                 "20": 3,
                 "1": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 89.72,
@@ -4587,7 +4584,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 83.33,
@@ -4595,7 +4592,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 12.706521739130435,
                     "pass_rate": 70.64,
@@ -4618,7 +4615,7 @@
                         "19": 2
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.066666666666665,
                     "pass_rate": 66.04,
@@ -4643,7 +4640,7 @@
                         "19": 5
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.183206106870227,
                     "pass_rate": 76.77,
@@ -4667,7 +4664,7 @@
                         "18": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 12.527559055118108,
                     "pass_rate": 65.81,
@@ -4694,7 +4691,7 @@
                         "20": 2
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.765151515151517,
                     "pass_rate": 74.42,
@@ -4718,7 +4715,7 @@
                         "20": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.992753623188404,
                     "pass_rate": 75.71,
@@ -4739,14 +4736,15 @@
                         "19": 3
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.925373134328359,
+                    "average_grade": 13.816176470588236,
                     "pass_rate": 73.77,
-                    "difficulty": 3.5642059701492537,
-                    "grade_count": 134,
+                    "difficulty": 3.547826470588235,
+                    "grade_count": 136,
                     "grades": {
-                        "10": 2,
+                        "3": 1,
+                        "10": 3,
                         "11": 9,
                         "12": 14,
                         "13": 35,
@@ -4757,16 +4755,16 @@
                         "18": 4
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436443",
             "name": "Engenharia de Software",
             "year": 3,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0024",
             "acronym": "ESOF",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 15.711688311688311,
             "average_pass_rate": 91.77222222222223,
             "difficulty": 4.192197691197691,
@@ -4784,8 +4782,8 @@
                 "18": 93,
                 "19": 39
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 87.04,
@@ -4793,7 +4791,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 93.1,
@@ -4801,7 +4799,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 87.88,
@@ -4809,7 +4807,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.852459016393443,
                     "pass_rate": 90.91,
@@ -4829,7 +4827,7 @@
                         "19": 5
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.739130434782608,
                     "pass_rate": 93.5,
@@ -4847,7 +4845,7 @@
                         "19": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 15.982608695652173,
                     "pass_rate": 93.5,
@@ -4866,7 +4864,7 @@
                         "19": 11
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 16.27338129496403,
                     "pass_rate": 95.21,
@@ -4885,7 +4883,7 @@
                         "19": 9
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 16.26241134751773,
                     "pass_rate": 90.97,
@@ -4902,7 +4900,7 @@
                         "19": 6
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.927536231884057,
                     "pass_rate": 93.84,
@@ -4920,16 +4918,16 @@
                         "19": 7
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436447",
             "name": "Linguagens e Tecnologias Web",
             "year": 3,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0112",
             "acronym": "LTW",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 14.457524271844658,
             "average_pass_rate": 82.29222222222224,
             "difficulty": 3.8144730852211435,
@@ -4952,8 +4950,8 @@
                 "19": 24,
                 "20": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 14.857142857142854,
                     "pass_rate": 73.68,
@@ -4969,7 +4967,7 @@
                         "18": 1
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 81.0,
@@ -4977,7 +4975,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 71.54,
@@ -4985,7 +4983,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.158333333333335,
                     "pass_rate": 70.07,
@@ -5008,7 +5006,7 @@
                         "18": 5
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.971830985915494,
                     "pass_rate": 88.75,
@@ -5028,7 +5026,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.866141732283465,
                     "pass_rate": 88.19,
@@ -5046,7 +5044,7 @@
                         "19": 4
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 15.022556390977442,
                     "pass_rate": 89.73,
@@ -5067,7 +5065,7 @@
                         "19": 5
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.33108108108108,
                     "pass_rate": 89.7,
@@ -5086,7 +5084,7 @@
                         "19": 5
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.049999999999999,
                     "pass_rate": 87.97,
@@ -5106,16 +5104,16 @@
                         "19": 7
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436446",
             "name": "Laboratório de Aplicações com Interface Gráfica",
             "year": 3,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0084",
             "acronym": "LAIG",
-            "credits": "7,5",
+            "credits": 7.5,
             "average_grade": 16.192539109506622,
             "average_pass_rate": 84.27111111111111,
             "difficulty": 4.1143030886482155,
@@ -5136,8 +5134,8 @@
                 "8": 2,
                 "7": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 89.08,
@@ -5145,7 +5143,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 88.03,
@@ -5153,7 +5151,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 16.58139534883721,
                     "pass_rate": 81.13,
@@ -5173,7 +5171,7 @@
                         "20": 1
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 15.53125,
                     "pass_rate": 71.64,
@@ -5193,7 +5191,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.890909090909089,
                     "pass_rate": 80.74,
@@ -5213,7 +5211,7 @@
                         "19": 10
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 15.715447154471542,
                     "pass_rate": 84.03,
@@ -5234,7 +5232,7 @@
                         "20": 3
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 16.143939393939394,
                     "pass_rate": 87.33,
@@ -5255,7 +5253,7 @@
                         "20": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 16.493150684931507,
                     "pass_rate": 87.43,
@@ -5274,7 +5272,7 @@
                         "20": 3
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 17.601449275362317,
                     "pass_rate": 89.03,
@@ -5292,16 +5290,16 @@
                         "20": 4
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436445",
             "name": "Redes de Computadores",
             "year": 3,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0032",
             "acronym": "RCOM",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 13.417834394904459,
             "average_pass_rate": 82.06777777777776,
             "difficulty": 3.654030714791224,
@@ -5326,8 +5324,8 @@
                 "19": 11,
                 "8": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 83.02,
@@ -5335,7 +5333,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 85.05,
@@ -5343,7 +5341,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 81.74,
@@ -5351,7 +5349,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.649122807017543,
                     "pass_rate": 80.95,
@@ -5377,7 +5375,7 @@
                         "19": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.28125,
                     "pass_rate": 81.63,
@@ -5402,7 +5400,7 @@
                         "19": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.210526315789474,
                     "pass_rate": 77.61,
@@ -5426,7 +5424,7 @@
                         "19": 2
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.661654135338344,
                     "pass_rate": 80.67,
@@ -5449,7 +5447,7 @@
                         "19": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.44,
                     "pass_rate": 82.14,
@@ -5472,7 +5470,7 @@
                         "19": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 14.054794520547944,
                     "pass_rate": 85.8,
@@ -5496,16 +5494,16 @@
                         "19": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436452",
             "name": "Laboratório de Bases de Dados e Aplicações Web",
             "year": 3,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0085",
             "acronym": "LBAW",
-            "credits": "7,5",
+            "credits": 7.5,
             "average_grade": 16.14368932038835,
             "average_pass_rate": 86.66111111111111,
             "difficulty": 4.154775620280475,
@@ -5523,8 +5521,8 @@
                 "20": 8,
                 "10": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 16.691358024691358,
                     "pass_rate": 88.04,
@@ -5540,7 +5538,7 @@
                         "19": 7
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 16.27927927927928,
                     "pass_rate": 94.07,
@@ -5558,7 +5556,7 @@
                         "19": 6
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 16.743589743589745,
                     "pass_rate": 76.47,
@@ -5574,7 +5572,7 @@
                         "19": 8
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 15.738738738738736,
                     "pass_rate": 76.55,
@@ -5593,7 +5591,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 15.451851851851853,
                     "pass_rate": 88.82,
@@ -5613,7 +5611,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 16.655172413793103,
                     "pass_rate": 85.93,
@@ -5630,7 +5628,7 @@
                         "20": 4
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 16.462686567164177,
                     "pass_rate": 91.78,
@@ -5648,7 +5646,7 @@
                         "20": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.927536231884059,
                     "pass_rate": 91.39,
@@ -5665,7 +5663,7 @@
                         "19": 8
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.825396825396826,
                     "pass_rate": 86.9,
@@ -5682,27 +5680,27 @@
                         "19": 6
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436448",
             "name": "Compiladores",
             "year": 3,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0028",
             "acronym": "COMP",
-            "credits": "6",
-            "average_grade": 14.558988764044946,
+            "credits": 6.0,
+            "average_grade": 14.548251748251745,
             "average_pass_rate": 75.31888888888889,
-            "difficulty": 3.6902260923845196,
-            "grade_count": 712,
+            "difficulty": 3.6886155400155394,
+            "grade_count": 715,
             "grades": {
                 "5": 1,
-                "10": 18,
+                "10": 19,
                 "11": 35,
-                "12": 56,
+                "12": 57,
                 "13": 104,
-                "14": 145,
+                "14": 146,
                 "15": 126,
                 "16": 90,
                 "17": 73,
@@ -5710,8 +5708,8 @@
                 "19": 17,
                 "20": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 65.32,
@@ -5719,7 +5717,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 82.07,
@@ -5727,7 +5725,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 66.95,
@@ -5735,7 +5733,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.59633027522936,
                     "pass_rate": 76.06,
@@ -5755,7 +5753,7 @@
                         "19": 4
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.371428571428572,
                     "pass_rate": 69.03,
@@ -5775,7 +5773,7 @@
                         "20": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.992537313432834,
                     "pass_rate": 85.53,
@@ -5794,7 +5792,7 @@
                         "19": 5
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 14.491666666666667,
                     "pass_rate": 79.47,
@@ -5812,7 +5810,7 @@
                         "19": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.844262295081966,
                     "pass_rate": 77.22,
@@ -5831,34 +5829,34 @@
                         "19": 2
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.991803278688524,
+                    "average_grade": 13.944,
                     "pass_rate": 76.22,
-                    "difficulty": 3.6231704918032785,
-                    "grade_count": 122,
+                    "difficulty": 3.6160000000000005,
+                    "grade_count": 125,
                     "grades": {
-                        "10": 5,
+                        "10": 6,
                         "11": 8,
-                        "12": 15,
+                        "12": 16,
                         "13": 23,
-                        "14": 23,
+                        "14": 24,
                         "15": 16,
                         "16": 19,
                         "17": 10,
                         "18": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436450",
             "name": "Proficiência Pessoal e Interpessoal",
             "year": 3,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0031",
             "acronym": "PPIN",
-            "credits": "4,5",
+            "credits": 4.5,
             "average_grade": 14.197235023041477,
             "average_pass_rate": 91.42444444444443,
             "difficulty": 3.9580741423451107,
@@ -5875,8 +5873,8 @@
                 "10": 5,
                 "19": 4
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 14.502732240437158,
                     "pass_rate": 94.82,
@@ -5893,7 +5891,7 @@
                         "18": 2
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 13.578947368421051,
                     "pass_rate": 89.62,
@@ -5909,7 +5907,7 @@
                         "17": 2
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 14.13095238095238,
                     "pass_rate": 84.85,
@@ -5924,7 +5922,7 @@
                         "17": 5
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.669724770642203,
                     "pass_rate": 88.62,
@@ -5941,7 +5939,7 @@
                         "17": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.299212598425196,
                     "pass_rate": 94.78,
@@ -5959,7 +5957,7 @@
                         "18": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.10909090909091,
                     "pass_rate": 93.22,
@@ -5978,7 +5976,7 @@
                         "19": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 14.307017543859649,
                     "pass_rate": 90.48,
@@ -5995,7 +5993,7 @@
                         "19": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.240000000000002,
                     "pass_rate": 91.91,
@@ -6012,7 +6010,7 @@
                         "18": 5
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 14.521739130434781,
                     "pass_rate": 94.52,
@@ -6029,33 +6027,33 @@
                         "19": 1
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436449",
             "name": "Inteligência Artificial",
             "year": 3,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0029",
             "acronym": "IART",
-            "credits": "6",
-            "average_grade": 13.133684210526315,
+            "credits": 6.0,
+            "average_grade": 13.146315789473684,
             "average_pass_rate": 76.22222222222223,
-            "difficulty": 3.494497076023392,
+            "difficulty": 3.4963918128654967,
             "grade_count": 950,
             "grades": {
                 "3": 6,
                 "4": 4,
-                "5": 22,
-                "6": 23,
+                "5": 21,
+                "6": 22,
                 "7": 18,
                 "8": 4,
                 "9": 3,
                 "10": 52,
-                "11": 99,
+                "11": 101,
                 "12": 131,
-                "13": 127,
-                "14": 125,
+                "13": 126,
+                "14": 126,
                 "15": 111,
                 "16": 87,
                 "17": 67,
@@ -6065,8 +6063,8 @@
                 "19": 17,
                 "20": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 70.43,
@@ -6074,7 +6072,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 66.43,
@@ -6082,7 +6080,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 11.612068965517242,
                     "pass_rate": 72.52,
@@ -6107,7 +6105,7 @@
                         "18": 5
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.088888888888889,
                     "pass_rate": 76.28,
@@ -6131,7 +6129,7 @@
                         "18": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 11.775,
                     "pass_rate": 67.09,
@@ -6155,7 +6153,7 @@
                         "18": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.503875968992249,
                     "pass_rate": 78.48,
@@ -6178,7 +6176,7 @@
                         "19": 4
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.375838926174497,
                     "pass_rate": 83.14,
@@ -6201,7 +6199,7 @@
                         "20": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.438356164383562,
                     "pass_rate": 82.94,
@@ -6224,20 +6222,20 @@
                         "19": 8
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 14.464516129032258,
+                    "average_grade": 14.541935483870969,
                     "pass_rate": 88.69,
-                    "difficulty": 3.943477419354839,
+                    "difficulty": 3.9550903225806455,
                     "grade_count": 155,
                     "grades": {
                         "3": 1,
-                        "5": 2,
-                        "6": 5,
-                        "11": 4,
+                        "5": 1,
+                        "6": 4,
+                        "11": 6,
                         "12": 12,
-                        "13": 21,
-                        "14": 29,
+                        "13": 20,
+                        "14": 30,
                         "15": 21,
                         "16": 28,
                         "17": 12,
@@ -6245,40 +6243,40 @@
                         "19": 5
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436451",
             "name": "Sistemas Distribuídos",
             "year": 3,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0036",
             "acronym": "SDIS",
-            "credits": "6",
-            "average_grade": 13.11710677382319,
+            "credits": 6.0,
+            "average_grade": 13.120551090700344,
             "average_pass_rate": 74.41444444444443,
-            "difficulty": 3.4558549049623672,
+            "difficulty": 3.45637155249394,
             "grade_count": 871,
             "grades": {
                 "4": 1,
                 "5": 2,
                 "6": 4,
                 "8": 15,
-                "9": 30,
-                "10": 84,
+                "9": 29,
+                "10": 85,
                 "11": 117,
                 "12": 101,
                 "13": 136,
-                "14": 108,
+                "14": 107,
                 "15": 111,
-                "16": 66,
+                "16": 67,
                 "17": 57,
                 "18": 29,
                 "19": 8,
                 "7": 2
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 68.79,
@@ -6286,7 +6284,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 84.38,
@@ -6294,7 +6292,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 13.087912087912088,
                     "pass_rate": 71.55,
@@ -6318,7 +6316,7 @@
                         "19": 1
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 12.339449541284406,
                     "pass_rate": 66.91,
@@ -6339,7 +6337,7 @@
                         "18": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.7421875,
                     "pass_rate": 69.28,
@@ -6361,7 +6359,7 @@
                         "18": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.249999999999998,
                     "pass_rate": 78.98,
@@ -6380,7 +6378,7 @@
                         "19": 3
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.249999999999998,
                     "pass_rate": 70.66,
@@ -6401,7 +6399,7 @@
                         "19": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 13.07638888888889,
                     "pass_rate": 75.56,
@@ -6422,37 +6420,37 @@
                         "18": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 13.013245033112582,
+                    "average_grade": 13.033112582781456,
                     "pass_rate": 83.62,
-                    "difficulty": 3.6243867549668876,
+                    "difficulty": 3.6273668874172187,
                     "grade_count": 151,
                     "grades": {
                         "8": 1,
-                        "9": 3,
-                        "10": 26,
+                        "9": 2,
+                        "10": 27,
                         "11": 20,
                         "12": 23,
                         "13": 10,
-                        "14": 23,
+                        "14": 22,
                         "15": 21,
-                        "16": 10,
+                        "16": 11,
                         "17": 8,
                         "18": 3,
                         "19": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436456",
             "name": "Sistemas de Informação",
             "year": 4,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0040",
             "acronym": "SINF",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 14.602693602693602,
             "average_pass_rate": 92.4811111111111,
             "difficulty": 4.040026262626262,
@@ -6472,8 +6470,8 @@
                 "9": 2,
                 "7": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 16.009615384615387,
                     "pass_rate": 95.37,
@@ -6492,7 +6490,7 @@
                         "19": 3
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 14.808510638297873,
                     "pass_rate": 94.95,
@@ -6511,7 +6509,7 @@
                         "19": 6
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 97.27,
@@ -6519,7 +6517,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 15.548780487804878,
                     "pass_rate": 90.11,
@@ -6536,7 +6534,7 @@
                         "18": 8
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 14.415094339622643,
                     "pass_rate": 84.0,
@@ -6554,7 +6552,7 @@
                         "18": 4
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 14.136000000000001,
                     "pass_rate": 91.79,
@@ -6574,7 +6572,7 @@
                         "18": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.6,
                     "pass_rate": 95.04,
@@ -6592,7 +6590,7 @@
                         "18": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.048780487804876,
                     "pass_rate": 89.13,
@@ -6610,7 +6608,7 @@
                         "19": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 14.732394366197182,
                     "pass_rate": 94.67,
@@ -6628,16 +6626,16 @@
                         "18": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436454",
             "name": "Gestão de Empresas",
             "year": 4,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0034",
             "acronym": "GEMP",
-            "credits": "4,5",
+            "credits": 4.5,
             "average_grade": 14.515330188679243,
             "average_pass_rate": 92.89777777777778,
             "difficulty": 4.035255083857442,
@@ -6656,8 +6654,8 @@
                 "19": 4,
                 "20": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 97.06,
@@ -6665,7 +6663,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 14.366666666666669,
                     "pass_rate": 93.75,
@@ -6683,7 +6681,7 @@
                         "18": 2
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 13.525773195876287,
                     "pass_rate": 95.96,
@@ -6702,7 +6700,7 @@
                         "18": 2
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.928571428571427,
                     "pass_rate": 93.33,
@@ -6720,7 +6718,7 @@
                         "19": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.807339449541285,
                     "pass_rate": 92.04,
@@ -6739,7 +6737,7 @@
                         "18": 3
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.927272727272728,
                     "pass_rate": 91.23,
@@ -6757,7 +6755,7 @@
                         "18": 3
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 15.311926605504588,
                     "pass_rate": 91.6,
@@ -6775,7 +6773,7 @@
                         "19": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.492063492063489,
                     "pass_rate": 90.0,
@@ -6794,7 +6792,7 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.252032520325205,
                     "pass_rate": 91.11,
@@ -6811,25 +6809,25 @@
                         "18": 6
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436455",
             "name": "Métodos Formais em Engenharia de Software",
             "year": 4,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0039",
             "acronym": "MFES",
-            "credits": "6",
-            "average_grade": 14.481806775407778,
+            "credits": 6.0,
+            "average_grade": 14.479949874686714,
             "average_pass_rate": 83.67,
-            "difficulty": 3.845671016311167,
-            "grade_count": 797,
+            "difficulty": 3.845392481203007,
+            "grade_count": 798,
             "grades": {
                 "10": 26,
                 "11": 56,
                 "12": 93,
-                "13": 98,
+                "13": 99,
                 "14": 120,
                 "15": 121,
                 "16": 96,
@@ -6840,8 +6838,8 @@
                 "8": 4,
                 "9": 4
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 84.4,
@@ -6849,7 +6847,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 81.2,
@@ -6857,7 +6855,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 14.25,
                     "pass_rate": 84.21,
@@ -6875,7 +6873,7 @@
                         "18": 5
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 14.552631578947368,
                     "pass_rate": 76.0,
@@ -6895,7 +6893,7 @@
                         "20": 1
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.297520661157025,
                     "pass_rate": 83.7,
@@ -6917,7 +6915,7 @@
                         "20": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 13.443396226415095,
                     "pass_rate": 76.6,
@@ -6936,7 +6934,7 @@
                         "20": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 14.879032258064514,
                     "pass_rate": 86.11,
@@ -6956,7 +6954,7 @@
                         "20": 2
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 15.323076923076925,
                     "pass_rate": 89.04,
@@ -6976,17 +6974,17 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 15.256944444444446,
+                    "average_grade": 15.241379310344827,
                     "pass_rate": 91.77,
-                    "difficulty": 4.123941666666667,
-                    "grade_count": 144,
+                    "difficulty": 4.121606896551723,
+                    "grade_count": 145,
                     "grades": {
                         "10": 1,
                         "11": 5,
                         "12": 9,
-                        "13": 13,
+                        "13": 14,
                         "14": 17,
                         "15": 28,
                         "16": 29,
@@ -6995,16 +6993,16 @@
                         "19": 3
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436457",
             "name": "Laboratório de Desenvolvimento de Software",
             "year": 4,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0086",
             "acronym": "LDSO",
-            "credits": "7,5",
+            "credits": 7.5,
             "average_grade": 16.760039177277175,
             "average_pass_rate": 94.33333333333336,
             "difficulty": 4.400672543258244,
@@ -7024,8 +7022,8 @@
                 "10": 1,
                 "20": 3
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 16.808333333333334,
                     "pass_rate": 96.0,
@@ -7040,7 +7038,7 @@
                         "18": 33
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 16.746835443037973,
                     "pass_rate": 87.78,
@@ -7055,7 +7053,7 @@
                         "19": 3
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 16.213675213675213,
                     "pass_rate": 98.32,
@@ -7073,7 +7071,7 @@
                         "19": 4
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 17.151162790697676,
                     "pass_rate": 94.51,
@@ -7088,7 +7086,7 @@
                         "19": 8
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 16.636363636363633,
                     "pass_rate": 90.68,
@@ -7107,7 +7105,7 @@
                         "19": 18
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 16.743589743589745,
                     "pass_rate": 91.87,
@@ -7127,7 +7125,7 @@
                         "19": 23
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 17.062992125984252,
                     "pass_rate": 98.45,
@@ -7143,7 +7141,7 @@
                         "19": 18
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 16.857142857142854,
                     "pass_rate": 96.18,
@@ -7160,7 +7158,7 @@
                         "20": 3
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 16.690647482014384,
                     "pass_rate": 95.21,
@@ -7177,16 +7175,16 @@
                         "19": 5
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436453",
             "name": "Agentes e Inteligência Artificial Distribuída",
             "year": 4,
-            "semester": "1",
+            "semester": 1,
             "code": "EIC0033",
             "acronym": "AIAD",
-            "credits": "6",
+            "credits": 6.0,
             "average_grade": 13.802902055622733,
             "average_pass_rate": 84.55333333333334,
             "difficulty": 3.761501975010077,
@@ -7213,8 +7211,8 @@
                 "19": 5,
                 "20": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 83.58,
@@ -7222,7 +7220,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": null,
                     "pass_rate": 74.04,
@@ -7230,7 +7228,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 13.04464285714286,
                     "pass_rate": 87.9,
@@ -7250,7 +7248,7 @@
                         "18": 1
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.460674157303371,
                     "pass_rate": 81.37,
@@ -7273,7 +7271,7 @@
                         "18": 4
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 13.449541284403672,
                     "pass_rate": 84.13,
@@ -7295,7 +7293,7 @@
                         "18": 2
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 11.968253968253968,
                     "pass_rate": 79.43,
@@ -7318,7 +7316,7 @@
                         "19": 1
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.893129770992367,
                     "pass_rate": 91.55,
@@ -7338,7 +7336,7 @@
                         "19": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.751999999999999,
                     "pass_rate": 87.14,
@@ -7360,7 +7358,7 @@
                         "20": 1
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
                     "average_grade": 15.68888888888889,
                     "pass_rate": 91.84,
@@ -7379,28 +7377,28 @@
                         "19": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436458",
             "name": "Investigação Operacional",
             "year": 4,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0037",
             "acronym": "IOPE",
-            "credits": "4,5",
-            "average_grade": 13.15575396825397,
+            "credits": 4.5,
+            "average_grade": 13.149357072205737,
             "average_pass_rate": 82.5011111111111,
-            "difficulty": 3.6233853174603174,
-            "grade_count": 1008,
+            "difficulty": 3.6224257830530826,
+            "grade_count": 1011,
             "grades": {
                 "5": 6,
-                "6": 16,
+                "6": 17,
                 "8": 26,
-                "9": 13,
+                "9": 12,
                 "10": 114,
                 "11": 117,
-                "12": 104,
+                "12": 107,
                 "13": 140,
                 "14": 108,
                 "15": 121,
@@ -7413,8 +7411,8 @@
                 "20": 1,
                 "3": 1
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": 12.573529411764707,
                     "pass_rate": 80.26,
@@ -7437,7 +7435,7 @@
                         "19": 5
                     }
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 12.17142857142857,
                     "pass_rate": 76.72,
@@ -7460,7 +7458,7 @@
                         "17": 5
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": null,
                     "pass_rate": 77.11,
@@ -7468,7 +7466,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 13.34,
                     "pass_rate": 76.03,
@@ -7491,7 +7489,7 @@
                         "19": 2
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 12.84313725490196,
                     "pass_rate": 85.38,
@@ -7516,7 +7514,7 @@
                         "19": 1
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 12.633802816901408,
                     "pass_rate": 85.0,
@@ -7539,7 +7537,7 @@
                         "19": 2
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 13.646017699115042,
                     "pass_rate": 85.16,
@@ -7561,7 +7559,7 @@
                         "20": 1
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 14.096774193548386,
                     "pass_rate": 87.05,
@@ -7583,20 +7581,20 @@
                         "19": 4
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 14.0,
+                    "average_grade": 13.934782608695652,
                     "pass_rate": 89.8,
-                    "difficulty": 3.896,
-                    "grade_count": 135,
+                    "difficulty": 3.886217391304348,
+                    "grade_count": 138,
                     "grades": {
                         "3": 1,
+                        "6": 1,
                         "7": 2,
                         "8": 2,
-                        "9": 1,
                         "10": 6,
                         "11": 16,
-                        "12": 14,
+                        "12": 17,
                         "13": 15,
                         "14": 11,
                         "15": 19,
@@ -7606,27 +7604,27 @@
                         "19": 2
                     }
                 }
-            }
+            ]
         },
         {
             "id": "436402",
             "name": "Laboratório de Gestão de Projectos",
             "year": 4,
-            "semester": "2",
+            "semester": 2,
             "code": "EIC0106",
             "acronym": "LGPR",
-            "credits": "7,5",
-            "average_grade": 16.846827133479213,
+            "credits": 7.5,
+            "average_grade": 16.84901531728665,
             "average_pass_rate": 94.97375,
-            "difficulty": 4.426499070021881,
+            "difficulty": 4.426827297592998,
             "grade_count": 914,
             "grades": {
                 "10": 3,
                 "13": 10,
                 "14": 20,
                 "15": 45,
-                "16": 162,
-                "17": 312,
+                "16": 160,
+                "17": 314,
                 "18": 249,
                 "19": 88,
                 "12": 10,
@@ -7635,8 +7633,8 @@
                 "6": 3,
                 "8": 3
             },
-            "years": {
-                "2010": {
+            "years": [
+                {
                     "year": 2010,
                     "average_grade": null,
                     "pass_rate": 95.54,
@@ -7644,7 +7642,7 @@
                     "grade_count": 0,
                     "grades": null
                 },
-                "2011": {
+                {
                     "year": 2011,
                     "average_grade": 17.20224719101124,
                     "pass_rate": 97.8,
@@ -7661,7 +7659,7 @@
                         "19": 12
                     }
                 },
-                "2012": {
+                {
                     "year": 2012,
                     "average_grade": 16.859504132231407,
                     "pass_rate": 96.8,
@@ -7678,7 +7676,7 @@
                         "19": 11
                     }
                 },
-                "2013": {
+                {
                     "year": 2013,
                     "average_grade": 17.52,
                     "pass_rate": 93.75,
@@ -7692,7 +7690,7 @@
                         "19": 9
                     }
                 },
-                "2014": {
+                {
                     "year": 2014,
                     "average_grade": 17.02631578947368,
                     "pass_rate": 97.44,
@@ -7710,7 +7708,7 @@
                         "19": 14
                     }
                 },
-                "2015": {
+                {
                     "year": 2015,
                     "average_grade": 16.9609375,
                     "pass_rate": null,
@@ -7727,7 +7725,7 @@
                         "19": 8
                     }
                 },
-                "2016": {
+                {
                     "year": 2016,
                     "average_grade": 17.0188679245283,
                     "pass_rate": 92.86,
@@ -7744,7 +7742,7 @@
                         "19": 14
                     }
                 },
-                "2017": {
+                {
                     "year": 2017,
                     "average_grade": 16.474452554744524,
                     "pass_rate": 90.97,
@@ -7764,11 +7762,11 @@
                         "19": 15
                     }
                 },
-                "2018": {
+                {
                     "year": 2018,
-                    "average_grade": 16.25,
+                    "average_grade": 16.26388888888889,
                     "pass_rate": 94.63,
-                    "difficulty": 4.3301,
+                    "difficulty": 4.332183333333333,
                     "grade_count": 144,
                     "grades": {
                         "8": 3,
@@ -7777,13 +7775,13 @@
                         "13": 4,
                         "14": 7,
                         "15": 12,
-                        "16": 35,
-                        "17": 41,
+                        "16": 33,
+                        "17": 43,
                         "18": 32,
                         "19": 5
                     }
                 }
-            }
+            ]
         }
     ]
 }
